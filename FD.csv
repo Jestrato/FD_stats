@@ -1,0 +1,593 @@
+registro,Estatus_piloto,id_mundial,Carrera_total,Carrera_mundial,Carrera_piloto,Puntos_carrera,Punto_acumulado_mundial,Clasificación,Puntos_clasificacion_fd2,Posicion_final,diferencia_companero,diferencia_posiciones,Victoria,Podio,out,Carrera_campeon,Posicion_acumulada_mundial,codigo_piloto,codigo_equipo,carrera_equipo,id_fd2,id_circuito,carr_equipo_campeon,id_piloto,Piloto,nacionalidad_piloto,Continente_piloto,id_equipo,Equipo,Jugador,Color,Color_Hex,circuito,Pais_circuito,Continente_circuito
+RE1,Novato,1,1,1,1,0,0,1,10,9,2,-7,0,0,1,0,6,8,4,1,,1,0,8,Mad Max,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Mónaco,Mónaco,Europa
+RE2,Novato,1,1,1,1,0,0,2,8,9,2,-6,0,0,1,0,8,3,1,1,,1,0,3,Speedy,Mexico,Norte América,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Mónaco,Mónaco,Europa
+RE3,Novato,1,1,1,1,8,8,6,3,2,1,4,0,1,0,0,2,4,2,1,,1,0,4,Billy Wheels,Estados Unidos,Norte América,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Mónaco,Mónaco,Europa
+RE4,Novato,1,1,1,1,5,5,7,2,4,1,3,0,0,0,0,4,6,3,1,,1,0,6,Justa Victoria,Italia,Europa,3,CTS,Jes,Amarillo,#F28807,Mónaco,Mónaco,Europa
+RE5,Veterano,1,1,1,1,10,10,8,1,1,1,7,1,1,0,0,1,2,4,1,,1,0,2,Jonny Gasolina,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Mónaco,Mónaco,Europa
+RE6,Veterano,1,1,1,1,6,6,3,6,3,1,0,0,1,0,0,3,1,1,1,,1,0,1,Osborne,España,Europa,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Mónaco,Mónaco,Europa
+RE7,Veterano,1,1,1,1,0,0,5,4,9,2,-3,0,0,1,0,7,7,2,1,,1,0,7,Fausto,Reino Unido,Europa,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Mónaco,Mónaco,Europa
+RE8,Veterano,1,1,1,1,4,4,4,5,5,2,-1,0,0,0,0,5,5,3,1,,1,0,5,Frenando Alfonso,España,Europa,3,CTS,Jes,Amarillo,#F28807,Mónaco,Mónaco,Europa
+RE153,Novato,2,20,6,6,0,6,3,6,9,2,-5,0,0,1,0,8,9,3,20,,1,0,9,Friki Lauda,Austria,Europa,3,CTS,Jes,Amarillo,#F28807,Mónaco,Mónaco,Europa
+RE154,Novato,2,20,6,6,2,19,5,3,6,2,-1,0,0,0,0,7,10,2,20,,1,0,10,Aitor Menta,España,Europa,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Mónaco,Mónaco,Europa
+RE155,Novato,2,20,6,6,4,23,7,1,4,2,3,0,0,0,0,5,11,4,20,,1,0,11,Jimmy sin Diesel,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Mónaco,Mónaco,Europa
+RE156,Novato,2,20,6,20,8,32,2,8,2,1,0,0,1,0,0,2,3,1,20,,1,0,3,Speedy,Mexico,Norte América,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Mónaco,Mónaco,Europa
+RE157,Veterano,2,20,6,20,0,19,1,10,9,2,-7,0,0,1,0,6,1,1,20,,1,0,1,Osborne,España,Europa,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Mónaco,Mónaco,Europa
+RE158,Veterano,2,20,6,20,10,30,6,2,1,1,5,1,1,0,0,4,4,2,20,,1,0,4,Billy Wheels,Estados Unidos,Norte América,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Mónaco,Mónaco,Europa
+RE159,Veterano,2,20,6,20,6,31,8,0,3,1,5,0,1,0,0,3,2,4,20,,1,0,2,Jonny Gasolina,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Mónaco,Mónaco,Europa
+RE160,Veterano,2,20,6,20,3,33,4,4,5,1,-1,0,0,0,0,1,5,3,20,,1,0,5,Frenando Alfonso,España,Europa,3,CTS,Jes,Amarillo,#F28807,Mónaco,Mónaco,Europa
+RE297,Novato,4,38,4,4,4,23,7,2,5,2,2,0,0,0,0,2,15,3,38,,1,0,15,Emerson Frikipaldi,Brasil,Sudamérica,3,CTS,Jes,Amarillo,#F28807,Mónaco,Mónaco,Europa
+RE298,Novato,4,38,4,4,2,19,6,3,7,1,-1,0,0,0,0,3,16,4,38,,1,0,16,Sony Diotas,Italia,Europa,4,Doble Cero,Sergio,Verde,#00BE08,Mónaco,Mónaco,Europa
+RE299,Veterano,4,38,4,4,10,34,2,8,1,1,1,1,1,0,0,1,14,3,38,,1,0,14,Michael Schufaker,Alemania,Europa,3,CTS,Jes,Amarillo,#F28807,Mónaco,Mónaco,Europa
+RE300,Veterano,4,38,4,4,0,16,5,4,8,2,-3,0,0,0,0,4,17,4,38,,1,0,17,Jonny G. Junior,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Mónaco,Mónaco,Europa
+RE301,Novato,4,38,4,9,3,13,8,0,6,2,2,0,0,0,0,7,13,2,38,,1,0,13,Toikoma Toso,Japón,Asia,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Mónaco,Mónaco,Europa
+RE302,Veterano,4,38,4,14,5,14,4,5,4,2,0,0,0,0,0,6,12,1,38,,1,0,12,Vatto Dovlao,Portugal,Europa,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Mónaco,Mónaco,Europa
+RE303,Novato,4,38,4,38,6,16,1,10,3,1,-2,0,1,0,0,5,3,1,38,,1,0,3,Speedy,Mexico,Norte América,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Mónaco,Mónaco,Europa
+RE304,Veterano,4,38,4,38,8,12,3,6,2,1,1,0,1,0,0,8,5,2,38,,1,0,5,Frenando Alfonso,España,Europa,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Mónaco,Mónaco,Europa
+RE385,Novato,5,49,5,5,3,24,8,0,6,1,2,0,0,0,0,3,18,2,49,2FD3,1,0,18,Xter Minadora,Argentina,Sudamérica,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Mónaco,Mónaco,Europa
+RE386,Novato,5,49,5,15,8,22,3,6,2,1,1,0,1,0,0,4,15,3,49,2FD1,1,0,15,Emerson Frikipaldi,Brasil,Sudamérica,3,CTS,Jes,Amarillo,#F28807,Mónaco,Mónaco,Europa
+RE387,Veterano,5,49,5,15,5,38,1,10,4,2,-3,0,0,0,0,2,14,3,49,2FD2,1,0,14,Michael Schufaker,Alemania,Europa,3,CTS,Jes,Amarillo,#F28807,Mónaco,Mónaco,Europa
+RE388,Veterano,5,49,5,20,2,19,2,8,7,2,0,0,0,0,0,5,13,2,49,2FD4,1,0,13,Toikoma Toso,Japón,Asia,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Mónaco,Mónaco,Europa
+RE389,Veterano,5,49,5,25,6,15,5,4,3,1,2,0,1,0,0,7,12,1,49,2FD6,1,0,12,Vatto Dovlao,Portugal,Europa,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Mónaco,Mónaco,Europa
+RE390,Novato,5,49,5,39,0,12,4,5,9,2,-4,0,0,1,0,8,2,4,49,2FD7,1,0,2,Jonny Gasolina,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Mónaco,Mónaco,Europa
+RE391,Veterano,5,49,5,49,10,40,7,2,1,1,6,1,1,0,0,1,5,4,49,2FD8,1,0,5,Frenando Alfonso,España,Europa,4,Doble Cero,Sergio,Verde,#00BE08,Mónaco,Mónaco,Europa
+RE392,Novato,5,49,5,49,4,18,6,3,5,2,1,0,0,0,0,6,3,1,49,2FD5,1,0,3,Speedy,Mexico,Norte América,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Mónaco,Mónaco,Europa
+RE465,Novato,6,59,5,5,0,15,3,6,9,2,-5,0,0,1,0,7,21,1,59,2FD12,1,0,21,Daniel Flipiardo,Australia,Oceania,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Mónaco,Mónaco,Europa
+RE466,Veterano,6,59,5,5,3,18,2,8,6,2,-4,0,0,0,0,6,22,5,5,2FD10,1,0,22,Leandro Gao,Brasil,Sudamérica,5,FIAT Rukkito,Manu,Blanco,#c8d4f9,Mónaco,Mónaco,Europa
+RE467,Veterano,6,59,5,5,6,21,1,10,3,1,-2,0,1,0,0,4,20,1,59,2FD13,1,0,20,Meg Azor,España,Europa,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Mónaco,Mónaco,Europa
+RE468,Novato,6,59,5,5,10,36,5,4,1,1,4,1,1,0,0,1,19,5,5,2FD11,1,0,19,Whisky Raikkonen,Finlandia,Europa,5,FIAT Rukkito,Manu,Blanco,#c8d4f9,Mónaco,Mónaco,Europa
+RE469,Novato,6,59,5,15,5,25,4,5,4,1,0,0,0,0,0,2,17,4,59,2FD8,1,0,17,Jonny G. Junior,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Mónaco,Mónaco,Europa
+RE470,Novato,6,59,5,25,8,18,7,2,2,1,5,0,1,0,0,5,15,3,59,2FD9,1,0,15,Emerson Frikipaldi,Brasil,Sudamérica,3,CTS,Jes,Amarillo,#F28807,Mónaco,Mónaco,Europa
+RE471,Veterano,6,59,5,25,4,24,8,0,5,2,3,0,0,0,0,3,11,4,59,2FD7,1,0,11,Jimmy sin Diesel,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Mónaco,Mónaco,Europa
+RE472,Veterano,6,59,5,25,0,12,6,3,9,2,-2,0,0,1,0,8,14,3,59,2FD2,1,0,14,Michael Schufaker,Alemania,Europa,3,CTS,Jes,Amarillo,#F28807,Mónaco,Mónaco,Europa
+RE537,Novato,7,68,4,14,10,29,2,8,1,1,1,1,1,0,0,2,21,1,68,2FD12,1,0,21,Daniel Flipiardo,Australia,Oceania,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Mónaco,Mónaco,Europa
+RE538,Novato,7,68,4,34,5,20,7,2,4,1,4,0,0,0,0,4,15,3,68,2FD9,1,0,15,Emerson Frikipaldi,Brasil,Sudamérica,3,CTS,Jes,Amarillo,#F28807,Mónaco,Mónaco,Europa
+RE539,Veterano,7,68,4,34,4,9,4,5,5,1,-1,0,0,0,0,8,11,4,68,2FD7,1,0,11,Jimmy sin Diesel,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Mónaco,Mónaco,Europa
+RE540,Novato,7,68,4,24,3,24,3,6,6,2,-3,0,0,0,0,3,17,4,68,2FD8,1,0,17,Jonny G. Junior,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Mónaco,Mónaco,Europa
+RE541,Veterano,7,68,4,4,0,9,6,3,8,2,-2,0,0,0,0,7,23,5,14,2FD10,1,0,23,Mad Max Verstappen,Holanda,Europa,5,FIAT Rukkito,Manu,Blanco,#c8d4f9,Mónaco,Mónaco,Europa
+RE542,Veterano,7,68,4,14,6,10,1,10,3,2,-2,0,1,0,0,6,20,1,68,2FD13,1,0,20,Meg Azor,España,Europa,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Mónaco,Mónaco,Europa
+RE543,Veterano,7,68,4,34,2,30,8,0,7,2,1,0,0,0,0,1,14,3,68,2FD14,1,0,14,Michael Schufaker,Alemania,Europa,3,CTS,Jes,Amarillo,#F28807,Mónaco,Mónaco,Europa
+RE544,Novato,7,68,4,14,8,19,5,4,2,1,2,0,1,0,0,5,19,5,14,2FD11,1,0,19,Whisky Raikkonen,Finlandia,Europa,5,FIAT Rukkito,Manu,Blanco,#c8d4f9,Mónaco,Mónaco,Europa
+RE9,Novato,1,2,2,2,6,14,1,10,3,1,-2,0,1,0,0,2,4,2,2,,2,0,4,Billy Wheels,Estados Unidos,Norte América,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Race City,Estados Unidos,Norte América
+RE10,Novato,1,2,2,2,10,15,2,8,1,1,1,1,1,0,0,1,6,3,2,,2,0,6,Justa Victoria,Italia,Europa,3,CTS,Jes,Amarillo,#F28807,Race City,Estados Unidos,Norte América
+RE11,Novato,1,2,2,2,8,8,6,3,2,1,4,0,1,0,0,5,8,4,2,,2,0,8,Mad Max,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Race City,Estados Unidos,Norte América
+RE12,Novato,1,2,2,2,4,4,3,6,5,2,-2,0,0,0,0,7,3,1,2,,2,0,3,Speedy,Mexico,Norte América,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Race City,Estados Unidos,Norte América
+RE13,Veterano,1,2,2,2,0,10,4,5,9,2,-4,0,0,1,0,4,2,4,2,,2,0,2,Jonny Gasolina,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Race City,Estados Unidos,Norte América
+RE14,Veterano,1,2,2,2,2,2,8,1,7,2,1,0,0,0,0,8,7,2,2,,2,0,7,Fausto,Reino Unido,Europa,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Race City,Estados Unidos,Norte América
+RE15,Veterano,1,2,2,2,5,11,7,2,4,1,3,0,0,0,0,3,1,1,2,,2,0,1,Osborne,España,Europa,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Race City,Estados Unidos,Norte América
+RE16,Veterano,1,2,2,2,3,7,5,4,6,2,-1,0,0,0,0,6,5,3,2,,2,0,5,Frenando Alfonso,España,Europa,3,CTS,Jes,Amarillo,#F28807,Race City,Estados Unidos,Norte América
+RE17,Novato,1,3,3,3,6,14,3,6,3,2,0,0,1,0,0,5,8,4,3,,3,0,8,Mad Max,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Valencia,España,Europa
+RE18,Novato,1,3,3,3,8,12,2,8,2,1,0,0,1,0,0,6,3,1,3,,3,0,3,Speedy,Mexico,Norte América,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Valencia,España,Europa
+RE19,Novato,1,3,3,3,2,16,7,2,7,2,0,0,0,0,0,3,4,2,3,,3,0,4,Billy Wheels,Estados Unidos,Norte América,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Valencia,España,Europa
+RE20,Novato,1,3,3,3,3,18,4,5,6,1,-2,0,0,0,0,2,6,3,3,,3,0,6,Justa Victoria,Italia,Europa,3,CTS,Jes,Amarillo,#F28807,Valencia,España,Europa
+RE21,Veterano,1,3,3,3,0,7,6,3,9,2,-2,0,0,1,0,7,5,3,3,,3,0,5,Frenando Alfonso,España,Europa,3,CTS,Jes,Amarillo,#F28807,Valencia,España,Europa
+RE22,Veterano,1,3,3,3,10,20,1,10,1,1,0,1,1,0,0,1,2,4,3,,3,0,2,Jonny Gasolina,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Valencia,España,Europa
+RE23,Veterano,1,3,3,3,4,6,8,1,5,1,3,0,0,0,0,8,7,2,3,,3,0,7,Fausto,Reino Unido,Europa,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Valencia,España,Europa
+RE24,Veterano,1,3,3,3,5,16,5,4,4,2,1,0,0,0,0,4,1,1,3,,3,0,1,Osborne,España,Europa,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Valencia,España,Europa
+RE169,Novato,2,22,8,8,0,6,8,0,9,2,0,0,0,1,0,8,9,3,22,,3,0,9,Friki Lauda,Austria,Europa,3,CTS,Jes,Amarillo,#F28807,Valencia,España,Europa
+RE170,Novato,2,22,8,8,8,35,3,6,2,1,1,0,1,0,0,5,10,2,22,,3,0,10,Aitor Menta,España,Europa,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Valencia,España,Europa
+RE171,Novato,2,22,8,8,4,37,5,3,4,2,1,0,0,0,0,3,11,4,22,,3,0,11,Jimmy sin Diesel,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Valencia,España,Europa
+RE172,Novato,2,22,8,22,3,35,1,10,5,1,-4,0,0,0,0,4,3,1,22,,3,0,3,Speedy,Mexico,Norte América,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Valencia,España,Europa
+RE173,Veterano,2,22,8,22,0,30,7,1,9,2,-1,0,0,1,0,6,4,2,22,,3,0,4,Billy Wheels,Estados Unidos,Norte América,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Valencia,España,Europa
+RE174,Veterano,2,22,8,22,0,25,4,4,9,2,-4,0,0,1,0,7,1,1,22,,3,0,1,Osborne,España,Europa,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Valencia,España,Europa
+RE175,Veterano,2,22,8,22,10,46,6,2,1,1,5,1,1,0,0,1,5,3,22,,3,0,5,Frenando Alfonso,España,Europa,3,CTS,Jes,Amarillo,#F28807,Valencia,España,Europa
+RE176,Veterano,2,22,8,22,6,41,2,8,3,1,-1,0,1,0,0,2,2,4,22,,3,0,2,Jonny Gasolina,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Valencia,España,Europa
+RE281,Novato,4,36,2,2,6,14,2,8,3,2,-1,0,1,0,0,2,15,3,36,,3,0,15,Emerson Frikipaldi,Brasil,Sudamérica,3,CTS,Jes,Amarillo,#F28807,Valencia,España,Europa
+RE282,Novato,4,36,2,2,4,9,6,3,5,2,1,0,0,0,0,4,16,4,36,,3,0,16,Sony Diotas,Italia,Europa,4,Doble Cero,Sergio,Verde,#00BE08,Valencia,España,Europa
+RE283,Veterano,4,36,2,2,10,12,8,0,1,1,7,1,1,0,0,3,17,4,36,,3,0,17,Jonny G. Junior,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Valencia,España,Europa
+RE284,Veterano,4,36,2,2,8,18,4,5,2,1,2,0,1,0,0,1,14,3,36,,3,0,14,Michael Schufaker,Alemania,Europa,3,CTS,Jes,Amarillo,#F28807,Valencia,España,Europa
+RE285,Novato,4,36,2,7,0,0,7,2,9,3,-1,0,0,1,0,8,13,2,36,,3,0,13,Toikoma Toso,Japón,Asia,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Valencia,España,Europa
+RE286,Veterano,4,36,2,12,0,6,1,10,9,2,-7,0,0,1,0,6,12,1,36,,3,0,12,Vatto Dovlao,Portugal,Europa,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Valencia,España,Europa
+RE287,Novato,4,36,2,36,5,8,3,6,4,1,-1,0,0,0,0,5,3,1,36,,3,0,3,Speedy,Mexico,Norte América,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Valencia,España,Europa
+RE288,Veterano,4,36,2,36,0,4,5,4,9,3,-3,0,0,1,0,7,5,2,36,,3,0,5,Frenando Alfonso,España,Europa,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Valencia,España,Europa
+RE553,Novato,7,70,6,16,8,45,6,3,2,1,4,0,1,0,0,1,21,1,70,2FD12,3,0,21,Daniel Flipiardo,Australia,Oceania,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Valencia,España,Europa
+RE554,Novato,7,70,6,36,4,28,8,0,5,2,3,0,0,0,0,5,15,3,70,2FD9,3,0,15,Emerson Frikipaldi,Brasil,Sudamérica,3,CTS,Jes,Amarillo,#F28807,Valencia,España,Europa
+RE555,Veterano,7,70,6,36,6,15,5,4,3,1,2,0,1,0,0,8,11,4,70,2FD7,3,0,11,Jimmy sin Diesel,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Valencia,España,Europa
+RE556,Novato,7,70,6,26,0,29,4,5,9,2,-4,0,0,1,0,4,17,4,70,2FD8,3,0,17,Jonny G. Junior,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Valencia,España,Europa
+RE557,Veterano,7,70,6,6,2,21,2,8,7,2,-5,0,0,0,0,6,23,5,16,2FD10,3,0,23,Mad Max Verstappen,Holanda,Europa,5,FIAT Rukkito,Manu,Blanco,#c8d4f9,Valencia,España,Europa
+RE558,Veterano,7,70,6,16,3,19,1,10,6,2,-5,0,0,0,0,7,20,1,70,2FD13,3,0,20,Meg Azor,España,Europa,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Valencia,España,Europa
+RE559,Veterano,7,70,6,36,5,35,7,2,4,1,3,0,0,0,0,2,14,3,70,2FD14,3,0,14,Michael Schufaker,Alemania,Europa,3,CTS,Jes,Amarillo,#F28807,Valencia,España,Europa
+RE560,Novato,7,70,6,16,10,32,3,6,1,1,2,1,1,0,0,3,19,5,16,2FD11,3,0,19,Whisky Raikkonen,Finlandia,Europa,5,FIAT Rukkito,Manu,Blanco,#c8d4f9,Valencia,España,Europa
+RE25,Novato,1,4,4,4,0,16,5,4,9,2,-3,0,0,1,0,5,4,2,4,,4,0,4,Billy Wheels,Estados Unidos,Norte América,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Hockenheim,Alemania,Europa
+RE26,Novato,1,4,4,4,0,14,8,1,9,2,0,0,0,1,0,6,8,4,4,,4,0,8,Mad Max,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Hockenheim,Alemania,Europa
+RE27,Novato,1,4,4,4,6,18,1,10,3,2,-2,0,1,0,0,4,3,1,4,,4,0,3,Speedy,Mexico,Norte América,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Hockenheim,Alemania,Europa
+RE28,Novato,1,4,4,4,3,21,3,6,6,2,-3,0,0,0,0,3,6,3,4,,4,0,6,Justa Victoria,Italia,Europa,3,CTS,Jes,Amarillo,#F28807,Hockenheim,Alemania,Europa
+RE29,Veterano,1,4,4,4,10,30,2,8,1,1,1,1,1,0,0,1,2,4,4,,4,0,2,Jonny Gasolina,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Hockenheim,Alemania,Europa
+RE30,Veterano,1,4,4,4,8,22,7,2,2,1,5,0,1,0,0,2,1,1,4,,4,0,1,Osborne,España,Europa,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Hockenheim,Alemania,Europa
+RE31,Veterano,1,4,4,4,5,11,6,3,4,1,2,0,0,0,0,8,7,2,4,,4,0,7,Fausto,Reino Unido,Europa,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Hockenheim,Alemania,Europa
+RE32,Veterano,1,4,4,4,4,11,4,5,5,1,-1,0,0,0,0,7,5,3,4,,4,0,5,Frenando Alfonso,España,Europa,3,CTS,Jes,Amarillo,#F28807,Hockenheim,Alemania,Europa
+RE33,Novato,1,5,5,5,0,14,4,5,9,2,-4,0,0,1,0,8,8,4,5,,5,0,8,Mad Max,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Marina Bay,Singapur,Asia
+RE34,Novato,1,5,5,5,10,26,1,10,1,1,0,1,1,0,0,2,4,2,5,,5,0,4,Billy Wheels,Estados Unidos,Norte América,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Marina Bay,Singapur,Asia
+RE35,Novato,1,5,5,5,2,23,5,4,7,2,-2,0,0,0,0,4,6,3,5,,5,0,6,Justa Victoria,Italia,Europa,3,CTS,Jes,Amarillo,#F28807,Marina Bay,Singapur,Asia
+RE36,Novato,1,5,5,5,4,22,7,2,5,1,2,0,0,0,0,5,3,1,5,,5,0,3,Speedy,Mexico,Norte América,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Marina Bay,Singapur,Asia
+RE37,Veterano,1,5,5,5,8,19,2,8,2,2,0,0,1,0,0,6,7,2,5,,5,0,7,Fausto,Reino Unido,Europa,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Marina Bay,Singapur,Asia
+RE38,Veterano,1,5,5,5,6,17,8,1,3,1,5,0,1,0,0,7,5,3,5,,5,0,5,Frenando Alfonso,España,Europa,3,CTS,Jes,Amarillo,#F28807,Marina Bay,Singapur,Asia
+RE39,Veterano,1,5,5,5,5,35,3,6,4,1,-1,0,0,0,0,1,2,4,5,,5,0,2,Jonny Gasolina,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Marina Bay,Singapur,Asia
+RE40,Veterano,1,5,5,5,3,25,6,3,6,2,0,0,0,0,0,3,1,1,5,,5,0,1,Osborne,España,Europa,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Marina Bay,Singapur,Asia
+RE209,Novato,3,27,3,13,0,3,2,8,9,2,-6,0,0,1,0,8,10,2,27,,5,0,10,Aitor Menta,España,Europa,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Marina Bay,Singapur,Asia
+RE210,Novato,3,27,3,13,8,26,7,2,2,1,5,0,1,0,0,1,11,4,27,,5,0,11,Jimmy sin Diesel,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Marina Bay,Singapur,Asia
+RE211,Veterano,3,27,3,3,6,14,4,5,3,2,1,0,1,0,0,4,12,1,27,,5,0,12,Vatto Dovlao,Portugal,Europa,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Marina Bay,Singapur,Asia
+RE212,Novato,3,27,3,17,3,7,6,3,5,1,1,0,0,0,0,6,6,3,27,,5,0,6,Justa Victoria,Italia,Europa,3,CTS,Jes,Amarillo,#F28807,Marina Bay,Singapur,Asia
+RE213,Novato,3,27,3,27,10,23,3,6,1,1,2,1,1,0,0,2,3,1,27,,5,0,3,Speedy,Mexico,Norte América,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Marina Bay,Singapur,Asia
+RE214,Veterano,3,27,3,27,1,5,5,4,7,1,-2,0,0,0,0,7,4,2,27,,5,0,4,Billy Wheels,Estados Unidos,Norte América,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Marina Bay,Singapur,Asia
+RE215,Veterano,3,27,3,27,4,8,8,0,4,2,4,0,0,0,0,5,2,4,27,,5,0,2,Jonny Gasolina,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Marina Bay,Singapur,Asia
+RE216,Veterano,3,27,3,27,2,16,1,10,6,2,-5,0,0,0,0,3,5,3,27,,5,0,5,Frenando Alfonso,España,Europa,3,CTS,Jes,Amarillo,#F28807,Marina Bay,Singapur,Asia
+RE353,Novato,5,45,1,1,5,5,4,5,4,1,0,0,0,0,0,4,18,2,45,2FD3,5,0,18,Xter Minadora,Argentina,Sudamérica,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Marina Bay,Singapur,Asia
+RE354,Novato,5,45,1,11,0,0,5,4,9,2,-3,0,0,1,0,8,15,3,45,2FD1,5,0,15,Emerson Frikipaldi,Brasil,Sudamérica,3,CTS,Jes,Amarillo,#F28807,Marina Bay,Singapur,Asia
+RE355,Veterano,5,45,1,11,10,10,1,10,1,1,0,1,1,0,0,1,14,3,45,2FD2,5,0,14,Michael Schufaker,Alemania,Europa,3,CTS,Jes,Amarillo,#F28807,Marina Bay,Singapur,Asia
+RE356,Veterano,5,45,1,16,3,3,3,6,6,2,-3,0,0,0,0,6,13,2,45,2FD4,5,0,13,Toikoma Toso,Japón,Asia,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Marina Bay,Singapur,Asia
+RE357,Veterano,5,45,1,21,6,6,8,0,3,1,5,0,1,0,0,3,12,1,45,2FD6,5,0,12,Vatto Dovlao,Portugal,Europa,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Marina Bay,Singapur,Asia
+RE358,Novato,5,45,1,35,4,4,2,8,5,2,2,0,0,0,0,5,2,4,45,2FD7,5,0,2,Jonny Gasolina,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Marina Bay,Singapur,Asia
+RE359,Veterano,5,45,1,45,8,8,7,2,2,1,5,0,1,0,0,2,5,4,45,2FD8,5,0,5,Frenando Alfonso,España,Europa,4,Doble Cero,Sergio,Verde,#00BE08,Marina Bay,Singapur,Asia
+RE360,Novato,5,45,1,45,0,0,6,3,9,2,-2,0,0,1,0,7,3,1,45,2FD5,5,0,3,Speedy,Mexico,Norte América,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Marina Bay,Singapur,Asia
+RE41,Novato,1,6,6,6,0,23,8,1,9,3,0,0,0,1,0,6,6,3,6,,6,0,6,Justa Victoria,Italia,Europa,3,CTS,Jes,Amarillo,#F28807,Docks 2,Estados Unidos,Norte América
+RE42,Novato,1,6,6,6,6,28,5,4,3,1,2,0,1,0,0,3,3,1,6,,6,0,3,Speedy,Mexico,Norte América,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Docks 2,Estados Unidos,Norte América
+RE43,Novato,1,6,6,6,5,31,4,5,4,2,0,0,0,0,0,2,4,2,6,,6,0,4,Billy Wheels,Estados Unidos,Norte América,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Docks 2,Estados Unidos,Norte América
+RE44,Novato,1,6,6,6,4,18,7,2,5,2,2,0,0,0,0,8,8,4,6,,6,0,8,Mad Max,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Docks 2,Estados Unidos,Norte América
+RE45,Veterano,1,6,6,6,0,25,1,10,9,2,-7,0,0,1,0,5,1,1,6,,6,0,1,Osborne,España,Europa,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Docks 2,Estados Unidos,Norte América
+RE46,Veterano,1,6,6,6,0,17,2,8,9,3,-6,0,0,1,0,7,5,3,6,,6,0,5,Frenando Alfonso,España,Europa,3,CTS,Jes,Amarillo,#F28807,Docks 2,Estados Unidos,Norte América
+RE47,Veterano,1,6,6,6,8,27,3,6,2,1,1,0,1,0,0,4,7,2,6,,6,0,7,Fausto,Reino Unido,Europa,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Docks 2,Estados Unidos,Norte América
+RE48,Veterano,1,6,6,6,10,45,6,3,1,1,5,1,1,0,0,1,2,4,6,,6,0,2,Jonny Gasolina,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Docks 2,Estados Unidos,Norte América
+RE49,Novato,1,7,7,7,3,34,8,1,6,2,2,0,0,0,0,4,4,2,7,,7,0,4,Billy Wheels,Estados Unidos,Norte América,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Buddh,India,Asia
+RE50,Novato,1,7,7,7,1,24,7,2,8,2,-1,0,0,0,0,6,6,3,7,,7,0,6,Justa Victoria,Italia,Europa,3,CTS,Jes,Amarillo,#F28807,Buddh,India,Asia
+RE51,Novato,1,7,7,7,2,20,3,6,7,2,-4,0,0,0,0,8,8,4,7,,7,0,8,Mad Max,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Buddh,India,Asia
+RE52,Novato,1,7,7,7,4,32,6,3,5,2,1,0,0,0,0,5,3,1,7,,7,0,3,Speedy,Mexico,Norte América,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Buddh,India,Asia
+RE53,Veterano,1,7,7,7,8,35,5,4,2,1,3,0,1,0,0,2,7,2,7,,7,0,7,Fausto,Reino Unido,Europa,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Buddh,India,Asia
+RE54,Veterano,1,7,7,7,10,35,4,5,1,1,3,1,1,0,0,3,1,1,7,,7,0,1,Osborne,España,Europa,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Buddh,India,Asia
+RE55,Veterano,1,7,7,7,6,23,2,8,3,1,-1,0,1,0,0,7,5,3,7,,7,0,5,Frenando Alfonso,España,Europa,3,CTS,Jes,Amarillo,#F28807,Buddh,India,Asia
+RE56,Veterano,1,7,7,7,5,50,1,10,4,1,-3,0,0,0,0,1,2,4,7,,7,0,2,Jonny Gasolina,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Buddh,India,Asia
+RE361,Novato,5,46,2,2,4,9,1,10,5,2,-4,0,0,0,0,3,18,2,46,2FD3,7,0,18,Xter Minadora,Argentina,Sudamérica,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Buddh,India,Asia
+RE362,Novato,5,46,2,12,6,6,7,2,3,2,4,0,1,0,0,6,15,3,46,2FD1,7,0,15,Emerson Frikipaldi,Brasil,Sudamérica,3,CTS,Jes,Amarillo,#F28807,Buddh,India,Asia
+RE363,Veterano,5,46,2,12,8,18,3,6,2,1,1,0,1,0,0,1,14,3,46,2FD2,7,0,14,Michael Schufaker,Alemania,Europa,3,CTS,Jes,Amarillo,#F28807,Buddh,India,Asia
+RE364,Veterano,5,46,2,17,5,8,2,8,4,1,-2,0,0,0,0,4,13,2,46,2FD4,7,0,13,Toikoma Toso,Japón,Asia,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Buddh,India,Asia
+RE365,Veterano,5,46,2,22,0,6,5,4,8,2,-3,0,0,0,0,5,12,1,46,2FD6,7,0,12,Vatto Dovlao,Portugal,Europa,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Buddh,India,Asia
+RE366,Novato,5,46,2,36,2,6,6,3,7,2,1,0,0,0,0,7,2,4,46,2FD7,7,0,2,Jonny Gasolina,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Buddh,India,Asia
+RE367,Veterano,5,46,2,46,10,18,4,5,1,1,3,1,1,0,0,2,5,4,46,2FD8,7,0,5,Frenando Alfonso,España,Europa,4,Doble Cero,Sergio,Verde,#00BE08,Buddh,India,Asia
+RE368,Novato,5,46,2,46,3,3,8,0,6,1,2,0,0,0,0,8,3,1,46,2FD5,7,0,3,Speedy,Mexico,Norte América,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Buddh,India,Asia
+RE457,Novato,6,58,4,4,4,15,1,10,5,1,-4,0,0,0,0,6,21,1,58,2FD12,7,0,21,Daniel Flipiardo,Australia,Oceania,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Buddh,India,Asia
+RE458,Veterano,6,58,4,4,3,15,6,3,6,2,0,0,0,0,0,5,22,5,4,2FD10,7,0,22,Leandro Gao,Brasil,Sudamérica,5,FIAT Rukkito,Manu,Blanco,#c8d4f9,Buddh,India,Asia
+RE459,Veterano,6,58,4,4,0,15,2,8,8,2,-6,0,0,0,0,4,20,1,58,2FD13,7,0,20,Meg Azor,España,Europa,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Buddh,India,Asia
+RE460,Novato,6,58,4,4,8,26,7,2,2,1,5,0,1,0,0,1,19,5,4,2FD11,7,0,19,Whisky Raikkonen,Finlandia,Europa,5,FIAT Rukkito,Manu,Blanco,#c8d4f9,Buddh,India,Asia
+RE461,Novato,6,58,4,14,2,20,4,5,7,2,1,0,0,0,0,2,17,4,58,2FD8,7,0,17,Jonny G. Junior,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Buddh,India,Asia
+RE462,Novato,6,58,4,24,10,10,5,4,1,1,4,1,1,0,0,8,15,3,58,2FD9,7,0,15,Emerson Frikipaldi,Brasil,Sudamérica,3,CTS,Jes,Amarillo,#F28807,Buddh,India,Asia
+RE463,Veterano,6,58,4,24,5,20,8,0,4,1,0,0,0,0,0,3,11,4,58,2FD7,7,0,11,Jimmy sin Diesel,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Buddh,India,Asia
+RE464,Veterano,6,58,4,24,6,12,3,6,3,2,0,0,1,0,0,7,14,3,58,2FD2,7,0,14,Michael Schufaker,Alemania,Europa,3,CTS,Jes,Amarillo,#F28807,Buddh,India,Asia
+RE57,Novato,1,8,8,8,8,32,6,3,2,2,4,0,1,0,0,7,6,3,8,,8,0,6,Justa Victoria,Italia,Europa,3,CTS,Jes,Amarillo,#F28807,Baltimore,Estados Unidos,Norte América
+RE58,Novato,1,8,8,8,6,38,1,10,3,1,-2,0,1,0,0,3,3,1,8,,8,0,3,Speedy,Mexico,Norte América,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Baltimore,Estados Unidos,Norte América
+RE59,Novato,1,8,8,8,3,37,5,4,6,2,-1,0,0,0,0,4,4,2,8,,8,0,4,Billy Wheels,Estados Unidos,Norte América,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Baltimore,Estados Unidos,Norte América
+RE60,Novato,1,8,8,8,2,22,7,2,7,2,0,0,0,0,0,8,8,4,8,,8,0,8,Mad Max,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Baltimore,Estados Unidos,Norte América
+RE61,Veterano,1,8,8,8,0,35,4,5,9,2,-4,0,0,1,0,5,1,1,8,,8,0,1,Osborne,España,Europa,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Baltimore,Estados Unidos,Norte América
+RE62,Veterano,1,8,8,8,10,33,8,1,1,1,7,1,1,0,0,6,5,3,8,,8,0,5,Frenando Alfonso,España,Europa,3,CTS,Jes,Amarillo,#F28807,Baltimore,Estados Unidos,Norte América
+RE63,Veterano,1,8,8,8,5,40,3,6,4,1,-1,0,0,0,0,2,7,2,8,,8,0,7,Fausto,Reino Unido,Europa,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Baltimore,Estados Unidos,Norte América
+RE64,Veterano,1,8,8,8,4,54,2,8,5,1,-3,0,0,0,0,1,2,4,8,,8,0,2,Jonny Gasolina,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Baltimore,Estados Unidos,Norte América
+RE569,Novato,7,72,8,18,0,51,5,4,9,2,-3,0,0,1,0,1,21,1,72,2FD12,8,0,21,Daniel Flipiardo,Australia,Oceania,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Baltimore,Estados Unidos,Norte América
+RE570,Novato,7,72,8,38,4,32,3,6,5,2,-2,0,0,0,0,6,15,3,72,2FD9,8,0,15,Emerson Frikipaldi,Brasil,Sudamérica,3,CTS,Jes,Amarillo,#F28807,Baltimore,Estados Unidos,Norte América
+RE571,Veterano,7,72,8,38,2,19,2,1,7,2,-5,0,0,0,0,8,11,4,72,2FD7,8,0,11,Jimmy sin Diesel,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Baltimore,Estados Unidos,Norte América
+RE572,Novato,7,72,8,28,6,45,6,3,3,1,3,0,1,0,0,3,17,4,72,2FD8,8,0,17,Jonny G. Junior,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Baltimore,Estados Unidos,Norte América
+RE573,Novato,7,72,8,8,5,29,1,10,4,1,-3,0,0,0,0,7,23,5,18,2FD10,8,0,23,Mad Max Verstappen,Holanda,Europa,5,FIAT Rukkito,Manu,Blanco,#c8d4f9,Baltimore,Estados Unidos,Norte América
+RE574,Veterano,7,72,8,18,8,32,7,3,2,1,5,0,1,0,0,5,20,1,72,2FD13,8,0,20,Meg Azor,España,Europa,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Baltimore,Estados Unidos,Norte América
+RE575,Veterano,7,72,8,38,10,49,8,0,1,1,7,1,1,0,0,2,14,3,72,2FD14,8,0,14,Michael Schufaker,Alemania,Europa,3,CTS,Jes,Amarillo,#F28807,Baltimore,Estados Unidos,Norte América
+RE576,Veterano,7,72,8,18,3,43,4,5,6,2,-2,0,0,0,0,4,19,5,18,2FD11,8,0,19,Whisky Raikkonen,Finlandia,Europa,5,FIAT Rukkito,Manu,Blanco,#c8d4f9,Baltimore,Estados Unidos,Norte América
+RE65,Novato,1,9,9,9,10,47,6,3,1,1,5,1,1,0,0,2,4,2,9,,9,0,4,Billy Wheels,Estados Unidos,Norte América,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Chicago (illinois),Estados Unidos,Norte América
+RE66,Novato,1,9,9,9,8,46,4,5,2,1,2,0,1,0,0,3,3,1,9,,9,0,3,Speedy,Mexico,Norte América,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Chicago (illinois),Estados Unidos,Norte América
+RE67,Novato,1,9,9,9,3,35,2,8,6,1,-4,0,0,0,0,6,6,3,9,,9,0,6,Justa Victoria,Italia,Europa,3,CTS,Jes,Amarillo,#F28807,Chicago (illinois),Estados Unidos,Norte América
+RE68,Novato,1,9,9,9,4,26,3,6,5,2,-2,0,0,0,0,8,8,4,9,,9,0,8,Mad Max,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Chicago (illinois),Estados Unidos,Norte América
+RE69,Veterano,1,9,9,9,0,33,7,2,9,2,-1,0,0,1,0,7,5,3,9,,9,0,5,Frenando Alfonso,España,Europa,3,CTS,Jes,Amarillo,#F28807,Chicago (illinois),Estados Unidos,Norte América
+RE70,Veterano,1,9,9,9,6,41,1,10,3,2,-2,0,1,0,0,5,1,1,9,,9,0,1,Osborne,España,Europa,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Chicago (illinois),Estados Unidos,Norte América
+RE71,Veterano,1,9,9,9,2,42,8,1,7,2,1,0,0,0,0,4,7,2,9,,9,0,7,Fausto,Reino Unido,Europa,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Chicago (illinois),Estados Unidos,Norte América
+RE72,Veterano,1,9,9,9,5,59,5,4,4,1,1,0,0,0,0,1,2,4,9,,9,0,2,Jonny Gasolina,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Chicago (illinois),Estados Unidos,Norte América
+RE73,Novato,1,10,10,10,0,35,5,4,9,2,-3,0,0,1,0,7,6,3,10,,10,0,6,Justa Victoria,Italia,Europa,3,CTS,Jes,Amarillo,#F28807,Sebring (Florida),Estados Unidos,Norte América
+RE74,Novato,1,10,10,10,8,54,1,10,2,1,-1,0,1,0,0,2,3,1,10,,10,0,3,Speedy,Mexico,Norte América,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Sebring (Florida),Estados Unidos,Norte América
+RE75,Novato,1,10,10,10,4,51,6,3,5,1,1,0,0,0,0,3,4,2,10,,10,0,4,Billy Wheels,Estados Unidos,Norte América,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Sebring (Florida),Estados Unidos,Norte América
+RE76,Novato,1,10,10,10,5,31,8,1,4,2,4,0,0,0,0,8,8,4,10,,10,0,8,Mad Max,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Sebring (Florida),Estados Unidos,Norte América
+RE77,Veterano,1,10,10,10,10,69,2,8,1,1,1,1,1,0,0,1,2,4,10,,10,0,2,Jonny Gasolina,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Sebring (Florida),Estados Unidos,Norte América
+RE78,Veterano,1,10,10,10,6,47,3,6,3,2,0,0,1,0,0,4,1,1,10,,10,0,1,Osborne,España,Europa,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Sebring (Florida),Estados Unidos,Norte América
+RE79,Veterano,1,10,10,10,2,44,4,5,7,2,-3,0,0,0,0,5,7,2,10,,10,0,7,Fausto,Reino Unido,Europa,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Sebring (Florida),Estados Unidos,Norte América
+RE80,Veterano,1,10,10,10,3,36,7,2,6,1,1,0,0,0,0,6,5,3,10,,10,0,5,Frenando Alfonso,España,Europa,3,CTS,Jes,Amarillo,#F28807,Sebring (Florida),Estados Unidos,Norte América
+RE81,Novato,1,11,11,11,10,45,4,5,1,1,3,1,1,0,0,6,6,3,11,,11,0,6,Justa Victoria,Italia,Europa,3,CTS,Jes,Amarillo,#F28807,Sotchi,Rusia,Europa
+RE82,Novato,1,11,11,11,1,32,7,2,8,2,-1,0,0,0,0,8,8,4,11,,11,0,8,Mad Max,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Sotchi,Rusia,Europa
+RE83,Novato,1,11,11,11,2,53,6,3,7,2,-1,0,0,0,0,4,4,2,11,,11,0,4,Billy Wheels,Estados Unidos,Norte América,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Sotchi,Rusia,Europa
+RE84,Novato,1,11,11,11,4,58,5,4,5,2,0,0,0,0,0,2,3,1,11,,11,0,3,Speedy,Mexico,Norte América,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Sotchi,Rusia,Europa
+RE85,Veterano,1,11,11,11,6,42,8,1,3,2,5,0,1,0,0,7,5,3,11,,11,0,5,Frenando Alfonso,España,Europa,3,CTS,Jes,Amarillo,#F28807,Sotchi,Rusia,Europa
+RE86,Veterano,1,11,11,11,8,55,2,8,2,1,0,0,1,0,0,3,1,1,11,,11,0,1,Osborne,España,Europa,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Sotchi,Rusia,Europa
+RE87,Veterano,1,11,11,11,3,72,1,10,6,1,-5,0,0,0,0,1,2,4,11,,11,0,2,Jonny Gasolina,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Sotchi,Rusia,Europa
+RE88,Veterano,1,11,11,11,5,49,3,6,4,1,-1,0,0,0,0,5,7,2,11,,11,0,7,Fausto,Reino Unido,Europa,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Sotchi,Rusia,Europa
+RE137,Novato,2,18,4,4,0,6,8,0,9,2,0,0,0,1,0,8,9,3,18,,11,0,9,Friki Lauda,Austria,Europa,3,CTS,Jes,Amarillo,#F28807,Sotchi,Rusia,Europa
+RE138,Novato,2,18,4,4,8,15,7,1,2,1,5,0,1,0,0,5,10,2,18,,11,0,10,Aitor Menta,España,Europa,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Sotchi,Rusia,Europa
+RE139,Novato,2,18,4,4,3,13,2,8,5,2,-3,0,0,0,0,7,11,4,18,,11,0,11,Jimmy sin Diesel,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Sotchi,Rusia,Europa
+RE140,Novato,2,18,4,18,2,14,5,3,6,2,-1,0,0,0,0,6,3,1,18,,11,0,3,Speedy,Mexico,Norte América,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Sotchi,Rusia,Europa
+RE141,Veterano,2,18,4,18,0,16,3,6,9,2,-5,0,0,1,0,3,4,2,18,,11,0,4,Billy Wheels,Estados Unidos,Norte América,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Sotchi,Rusia,Europa
+RE142,Veterano,2,18,4,18,10,22,4,4,1,1,3,1,1,0,0,2,5,3,18,,11,0,5,Frenando Alfonso,España,Europa,3,CTS,Jes,Amarillo,#F28807,Sotchi,Rusia,Europa
+RE143,Veterano,2,18,4,18,6,16,6,2,3,1,3,0,1,0,0,4,1,1,18,,11,0,1,Osborne,España,Europa,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Sotchi,Rusia,Europa
+RE144,Veterano,2,18,4,18,4,25,1,10,4,1,-3,0,0,0,0,1,2,4,18,,11,0,2,Jonny Gasolina,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Sotchi,Rusia,Europa
+RE377,Novato,5,48,4,4,6,21,3,6,3,1,0,0,1,0,0,3,18,2,48,2FD3,11,0,18,Xter Minadora,Argentina,Sudamérica,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Sotchi,Rusia,Europa
+RE378,Novato,5,48,4,14,0,14,8,0,9,2,0,0,0,1,0,5,15,3,48,2FD1,11,0,15,Emerson Frikipaldi,Brasil,Sudamérica,3,CTS,Jes,Amarillo,#F28807,Sotchi,Rusia,Europa
+RE379,Veterano,5,48,4,14,10,33,2,8,1,1,1,1,1,0,0,1,14,3,48,2FD2,11,0,14,Michael Schufaker,Alemania,Europa,3,CTS,Jes,Amarillo,#F28807,Sotchi,Rusia,Europa
+RE380,Veterano,5,48,4,19,5,17,1,10,4,2,-3,0,0,0,0,4,13,2,48,2FD4,11,0,13,Toikoma Toso,Japón,Asia,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Sotchi,Rusia,Europa
+RE381,Veterano,5,48,4,24,3,9,6,3,6,2,0,0,0,0,0,7,12,1,48,2FD6,11,0,12,Vatto Dovlao,Portugal,Europa,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Sotchi,Rusia,Europa
+RE382,Novato,5,48,4,38,4,12,5,4,5,1,0,0,0,0,0,8,2,4,48,2FD7,11,0,2,Jonny Gasolina,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Sotchi,Rusia,Europa
+RE383,Veterano,5,48,4,48,2,30,7,2,7,2,0,0,0,0,0,2,5,4,48,2FD8,11,0,5,Frenando Alfonso,España,Europa,4,Doble Cero,Sergio,Verde,#00BE08,Sotchi,Rusia,Europa
+RE384,Novato,5,48,4,48,8,14,4,5,2,1,2,0,1,0,0,6,3,1,48,2FD5,11,0,3,Speedy,Mexico,Norte América,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Sotchi,Rusia,Europa
+RE441,Novato,6,56,2,2,5,5,8,0,4,1,3,0,0,0,0,7,21,1,56,2FD12,11,0,21,Daniel Flipiardo,Australia,Oceania,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Sotchi,Rusia,Europa
+RE442,Veterano,6,56,2,2,4,12,5,4,5,2,1,0,0,0,0,3,22,5,2,2FD10,11,0,22,Leandro Gao,Brasil,Sudamérica,5,FIAT Rukkito,Manu,Blanco,#c8d4f9,Sotchi,Rusia,Europa
+RE443,Veterano,6,56,2,2,3,7,4,5,6,2,-1,0,0,0,0,5,20,1,56,2FD13,11,0,20,Meg Azor,España,Europa,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Sotchi,Rusia,Europa
+RE444,Novato,6,56,2,2,8,18,2,8,2,1,0,0,1,0,0,1,19,5,2,2FD11,11,0,19,Whisky Raikkonen,Finlandia,Europa,5,FIAT Rukkito,Manu,Blanco,#c8d4f9,Sotchi,Rusia,Europa
+RE445,Novato,6,56,2,12,2,8,6,3,7,2,-1,0,0,0,0,4,17,4,56,2FD8,11,0,17,Jonny G. Junior,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Sotchi,Rusia,Europa
+RE446,Novato,6,56,2,22,0,0,7,2,8,2,-1,0,0,0,0,8,15,3,56,2FD9,11,0,15,Emerson Frikipaldi,Brasil,Sudamérica,3,CTS,Jes,Amarillo,#F28807,Sotchi,Rusia,Europa
+RE447,Veterano,6,56,2,22,10,15,3,6,1,1,2,1,1,0,0,2,11,4,56,2FD7,11,0,11,Jimmy sin Diesel,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Sotchi,Rusia,Europa
+RE448,Veterano,6,56,2,22,6,6,1,10,3,1,-2,0,1,0,0,6,14,3,56,2FD2,11,0,14,Michael Schufaker,Alemania,Europa,3,CTS,Jes,Amarillo,#F28807,Sotchi,Rusia,Europa
+RE529,Novato,7,67,3,13,6,19,1,10,3,1,-1,0,1,0,0,2,21,1,67,2FD12,11,0,21,Daniel Flipiardo,Australia,Oceania,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Sotchi,Rusia,Europa
+RE530,Novato,7,67,3,33,5,15,8,0,4,2,4,0,0,0,0,4,15,3,67,2FD9,11,0,15,Emerson Frikipaldi,Brasil,Sudamérica,3,CTS,Jes,Amarillo,#F28807,Sotchi,Rusia,Europa
+RE531,Veterano,7,67,3,33,3,5,5,4,6,2,-1,0,0,0,0,7,11,4,67,2FD7,11,0,11,Jimmy sin Diesel,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Sotchi,Rusia,Europa
+RE532,Novato,7,67,3,23,8,21,6,3,2,1,3,0,1,0,0,3,17,4,67,2FD8,11,0,17,Jonny G. Junior,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Sotchi,Rusia,Europa
+RE533,Veterano,7,67,3,3,4,9,7,2,5,2,2,0,0,0,0,6,23,5,13,2FD10,11,0,23,Mad Max Verstappen,Holanda,Europa,5,FIAT Rukkito,Manu,Blanco,#c8d4f9,Sotchi,Rusia,Europa
+RE534,Veterano,7,67,3,13,0,4,4,5,8,2,-4,0,0,0,0,8,20,1,67,2FD13,11,0,20,Meg Azor,España,Europa,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Sotchi,Rusia,Europa
+RE535,Veterano,7,67,3,33,10,28,3,6,1,1,2,1,1,0,0,1,14,3,67,2FD14,11,0,14,Michael Schufaker,Alemania,Europa,3,CTS,Jes,Amarillo,#F28807,Sotchi,Rusia,Europa
+RE536,Novato,7,67,3,13,2,11,2,8,7,1,-5,0,0,0,0,5,19,5,13,2FD11,11,0,19,Whisky Raikkonen,Finlandia,Europa,5,FIAT Rukkito,Manu,Blanco,#c8d4f9,Sotchi,Rusia,Europa
+RE89,Novato,1,12,12,12,6,59,6,3,3,1,3,0,1,0,0,4,4,2,12,,12,0,4,Billy Wheels,Estados Unidos,Norte América,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,New Jersey,Estados Unidos,Norte América
+RE90,Novato,1,12,12,12,10,68,2,8,1,1,1,1,1,0,0,2,3,1,12,,12,0,3,Speedy,Mexico,Norte América,1,Estrellas Rojas,Kitos,Rojo,#D72C14,New Jersey,Estados Unidos,Norte América
+RE91,Novato,1,12,12,12,4,49,5,4,5,2,0,0,0,0,0,7,6,3,12,,12,0,6,Justa Victoria,Italia,Europa,3,CTS,Jes,Amarillo,#F28807,New Jersey,Estados Unidos,Norte América
+RE92,Novato,1,12,12,12,2,34,4,5,7,2,-3,0,0,0,0,8,8,4,12,,12,0,8,Mad Max,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,New Jersey,Estados Unidos,Norte América
+RE93,Veterano,1,12,12,12,8,50,3,6,2,1,1,0,1,0,0,6,5,3,12,,12,0,5,Frenando Alfonso,España,Europa,3,CTS,Jes,Amarillo,#F28807,New Jersey,Estados Unidos,Norte América
+RE94,Veterano,1,12,12,12,1,50,8,1,8,2,0,0,0,0,0,5,7,2,12,,12,0,7,Fausto,Reino Unido,Europa,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,New Jersey,Estados Unidos,Norte América
+RE95,Veterano,1,12,12,12,3,75,7,2,6,1,1,0,0,0,0,1,2,4,12,,12,0,2,Jonny Gasolina,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,New Jersey,Estados Unidos,Norte América
+RE96,Veterano,1,12,12,12,5,60,1,10,4,2,-3,0,0,0,0,3,1,1,12,,12,0,1,Osborne,España,Europa,1,Estrellas Rojas,Kitos,Rojo,#D72C14,New Jersey,Estados Unidos,Norte América
+RE449,Novato,6,57,3,3,6,11,4,5,3,2,1,0,1,0,0,6,21,1,57,2FD12,12,0,21,Daniel Flipiardo,Australia,Oceania,1,Estrellas Rojas,Kitos,Rojo,#D72C14,New Jersey,Estados Unidos,Norte América
+RE450,Veterano,6,57,3,3,0,12,3,6,9,3,-5,0,0,1,0,5,22,5,3,2FD10,12,0,22,Leandro Gao,Brasil,Sudamérica,5,FIAT Rukkito,Manu,Blanco,#c8d4f9,New Jersey,Estados Unidos,Norte América
+RE451,Veterano,6,57,3,3,8,15,8,0,2,1,6,0,1,0,0,4,20,1,57,2FD13,12,0,20,Meg Azor,España,Europa,1,Estrellas Rojas,Kitos,Rojo,#D72C14,New Jersey,Estados Unidos,Norte América
+RE452,Novato,6,57,3,3,0,18,2,8,9,3,-6,0,0,1,0,1,19,5,3,2FD11,12,0,19,Whisky Raikkonen,Finlandia,Europa,5,FIAT Rukkito,Manu,Blanco,#c8d4f9,New Jersey,Estados Unidos,Norte América
+RE453,Novato,6,57,3,13,10,18,6,3,1,1,5,1,1,0,0,2,17,4,57,2FD8,12,0,17,Jonny G. Junior,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,New Jersey,Estados Unidos,Norte América
+RE454,Novato,6,57,3,23,0,0,5,4,9,3,-2,0,0,1,0,8,15,3,57,2FD9,12,0,15,Emerson Frikipaldi,Brasil,Sudamérica,3,CTS,Jes,Amarillo,#F28807,New Jersey,Estados Unidos,Norte América
+RE455,Veterano,6,57,3,23,0,15,7,2,9,2,-1,0,0,1,0,3,11,4,57,2FD7,12,0,11,Jimmy sin Diesel,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,New Jersey,Estados Unidos,Norte América
+RE456,Veterano,6,57,3,23,0,6,1,10,9,3,-7,0,0,1,0,7,14,3,57,2FD2,12,0,14,Michael Schufaker,Alemania,Europa,3,CTS,Jes,Amarillo,#F28807,New Jersey,Estados Unidos,Norte América
+RE561,Novato,7,71,7,17,6,51,5,4,3,1,2,0,1,0,0,1,21,1,71,2FD12,12,0,21,Daniel Flipiardo,Australia,Oceania,1,Estrellas Rojas,Kitos,Rojo,#D72C14,New Jersey,Estados Unidos,Norte América
+RE562,Novato,7,71,7,37,0,28,3,6,9,2,-5,0,0,1,0,5,15,3,71,2FD9,12,0,15,Emerson Frikipaldi,Brasil,Sudamérica,3,CTS,Jes,Amarillo,#F28807,New Jersey,Estados Unidos,Norte América
+RE563,Veterano,7,71,7,37,2,17,6,3,7,2,-1,0,0,0,0,8,11,4,71,2FD7,12,0,11,Jimmy sin Diesel,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,New Jersey,Estados Unidos,Norte América
+RE564,Novato,7,71,7,27,10,39,8,0,1,1,7,1,1,0,0,4,17,4,71,2FD8,12,0,17,Jonny G. Junior,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,New Jersey,Estados Unidos,Norte América
+RE565,Veterano,7,71,7,7,3,24,7,2,6,2,1,0,0,0,0,6,23,5,17,2FD10,12,0,23,Mad Max Verstappen,Holanda,Europa,5,FIAT Rukkito,Manu,Blanco,#c8d4f9,New Jersey,Estados Unidos,Norte América
+RE566,Veterano,7,71,7,17,5,24,4,5,4,2,0,0,0,0,0,7,20,1,71,2FD13,12,0,20,Meg Azor,España,Europa,1,Estrellas Rojas,Kitos,Rojo,#D72C14,New Jersey,Estados Unidos,Norte América
+RE567,Veterano,7,71,7,37,4,39,1,10,5,1,-4,0,0,0,0,3,14,3,71,2FD14,12,0,14,Michael Schufaker,Alemania,Europa,3,CTS,Jes,Amarillo,#F28807,New Jersey,Estados Unidos,Norte América
+RE568,Novato,7,71,7,17,8,40,2,8,2,1,0,0,1,0,0,2,19,5,17,2FD11,12,0,19,Whisky Raikkonen,Finlandia,Europa,5,FIAT Rukkito,Manu,Blanco,#c8d4f9,New Jersey,Estados Unidos,Norte América
+RE97,Novato,1,13,13,13,8,76,1,10,2,1,-1,0,1,0,0,8,3,1,13,,13,1,3,Speedy,Mexico,Norte América,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Austin (tejas),Estados Unidos,Norte América
+RE98,Novato,1,13,13,13,5,64,8,1,4,1,4,0,0,0,0,3,4,2,13,,13,0,4,Billy Wheels,Estados Unidos,Norte América,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Austin (tejas),Estados Unidos,Norte América
+RE99,Novato,1,13,13,13,1,50,7,2,8,2,-1,0,0,0,0,7,6,3,13,,13,0,6,Justa Victoria,Italia,Europa,3,CTS,Jes,Amarillo,#F28807,Austin (tejas),Estados Unidos,Norte América
+RE100,Novato,1,13,13,13,3,37,3,6,6,2,-3,0,0,0,0,8,8,4,13,,13,0,8,Mad Max,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Austin (tejas),Estados Unidos,Norte América
+RE101,Veterano,1,13,13,13,10,60,5,4,1,1,4,1,1,0,0,5,5,3,13,,13,0,5,Frenando Alfonso,España,Europa,3,CTS,Jes,Amarillo,#F28807,Austin (tejas),Estados Unidos,Norte América
+RE102,Veterano,1,13,13,13,6,81,4,5,3,1,1,0,1,0,0,1,2,4,13,,13,0,2,Jonny Gasolina,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Austin (tejas),Estados Unidos,Norte América
+RE103,Veterano,1,13,13,13,4,54,2,8,5,2,-3,0,0,0,0,6,7,2,13,,13,0,7,Fausto,Reino Unido,Europa,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Austin (tejas),Estados Unidos,Norte América
+RE104,Veterano,1,13,13,13,2,62,6,3,7,2,-1,0,0,0,0,4,1,1,13,,13,1,1,Osborne,España,Europa,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Austin (tejas),Estados Unidos,Norte América
+RE225,Novato,3,29,5,15,0,7,5,4,9,2,-3,0,0,1,0,8,10,2,29,,13,0,10,Aitor Menta,España,Europa,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Austin (tejas),Estados Unidos,Norte América
+RE226,Novato,3,29,5,15,2,29,4,5,6,2,-2,0,0,0,0,2,11,4,29,,13,0,11,Jimmy sin Diesel,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Austin (tejas),Estados Unidos,Norte América
+RE227,Veterano,3,29,5,5,0,24,6,3,9,2,-2,0,0,1,0,4,12,1,29,,13,0,12,Vatto Dovlao,Portugal,Europa,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Austin (tejas),Estados Unidos,Norte América
+RE228,Novato,3,29,5,19,3,10,8,0,5,2,3,0,0,0,0,7,6,3,29,,13,0,6,Justa Victoria,Italia,Europa,3,CTS,Jes,Amarillo,#F28807,Austin (tejas),Estados Unidos,Norte América
+RE229,Novato,3,29,5,29,4,35,1,10,4,1,-3,0,0,0,0,1,3,1,29,,13,0,3,Speedy,Mexico,Norte América,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Austin (tejas),Estados Unidos,Norte América
+RE230,Veterano,3,29,5,29,10,21,2,8,1,1,1,1,1,0,0,5,4,2,29,,13,0,4,Billy Wheels,Estados Unidos,Norte América,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Austin (tejas),Estados Unidos,Norte América
+RE231,Veterano,3,29,5,29,6,17,3,6,3,1,0,0,1,0,0,6,2,4,29,,13,0,2,Jonny Gasolina,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Austin (tejas),Estados Unidos,Norte América
+RE232,Veterano,3,29,5,29,8,26,7,2,2,1,5,0,1,0,0,3,5,3,29,,13,0,5,Frenando Alfonso,España,Europa,3,CTS,Jes,Amarillo,#F28807,Austin (tejas),Estados Unidos,Norte América
+RE433,Novato,6,55,1,1,0,0,8,0,9,2,0,0,0,1,0,8,21,1,55,2FD12,13,0,21,Daniel Flipiardo,Australia,Oceania,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Austin (tejas),Estados Unidos,Norte América
+RE434,Veterano,6,55,1,1,8,8,2,8,2,2,0,0,1,0,0,2,22,5,1,2FD10,13,0,22,Leandro Gao,Brasil,Sudamérica,5,FIAT Rukkito,Manu,Blanco,#c8d4f9,Austin (tejas),Estados Unidos,Norte América
+RE435,Veterano,6,55,1,1,4,4,5,4,5,1,0,0,0,0,0,5,20,1,55,2FD13,13,0,20,Meg Azor,España,Europa,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Austin (tejas),Estados Unidos,Norte América
+RE436,Novato,6,55,1,1,10,10,1,10,1,1,0,1,1,0,0,1,19,5,1,2FD11,13,0,19,Whisky Raikkonen,Finlandia,Europa,5,FIAT Rukkito,Manu,Blanco,#c8d4f9,Austin (tejas),Estados Unidos,Norte América
+RE437,Novato,6,55,1,11,6,6,4,5,3,1,1,0,1,0,0,3,17,4,55,2FD8,13,0,17,Jonny G. Junior,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Austin (tejas),Estados Unidos,Norte América
+RE438,Novato,6,55,1,21,0,0,6,3,9,3,-2,0,0,1,0,7,15,3,55,2FD9,13,0,15,Emerson Frikipaldi,Brasil,Sudamérica,3,CTS,Jes,Amarillo,#F28807,Austin (tejas),Estados Unidos,Norte América
+RE439,Veterano,6,55,1,21,5,5,3,6,4,2,-1,0,0,0,0,4,11,4,55,2FD7,13,0,11,Jimmy sin Diesel,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Austin (tejas),Estados Unidos,Norte América
+RE440,Veterano,6,55,1,21,0,0,7,2,9,3,-1,0,0,1,0,6,14,3,55,2FD2,13,0,14,Michael Schufaker,Alemania,Europa,3,CTS,Jes,Amarillo,#F28807,Austin (tejas),Estados Unidos,Norte América
+RE105,Novato,1,14,14,14,10,86,2,8,1,1,1,1,1,0,1,1,3,1,14,,14,0,3,Speedy,Mexico,Norte América,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Nevada Ride,Estados Unidos,Norte América
+RE106,Novato,1,14,14,14,8,58,4,5,2,2,2,0,1,0,0,6,6,3,14,,14,0,6,Justa Victoria,Italia,Europa,3,CTS,Jes,Amarillo,#F28807,Nevada Ride,Estados Unidos,Norte América
+RE107,Novato,1,14,14,14,4,68,6,3,5,1,1,0,0,0,0,4,4,2,14,,14,0,4,Billy Wheels,Estados Unidos,Norte América,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Nevada Ride,Estados Unidos,Norte América
+RE108,Novato,1,14,14,14,1,38,5,4,8,2,-3,0,0,0,0,8,8,4,14,,14,0,8,Mad Max,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Nevada Ride,Estados Unidos,Norte América
+RE109,Veterano,1,14,14,14,6,70,3,6,3,2,0,0,1,0,0,3,1,1,14,,14,0,1,Osborne,España,Europa,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Nevada Ride,Estados Unidos,Norte América
+RE110,Veterano,1,14,14,14,3,57,8,1,6,2,2,0,0,0,0,7,7,2,14,,14,0,7,Fausto,Reino Unido,Europa,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Nevada Ride,Estados Unidos,Norte América
+RE111,Veterano,1,14,14,14,2,83,7,2,7,1,0,0,0,0,0,2,2,4,14,,14,0,2,Jonny Gasolina,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Nevada Ride,Estados Unidos,Norte América
+RE112,Veterano,1,14,14,14,5,65,1,10,4,1,-3,0,0,0,0,5,5,3,14,,14,0,5,Frenando Alfonso,España,Europa,3,CTS,Jes,Amarillo,#F28807,Nevada Ride,Estados Unidos,Norte América
+RE497,Novato,6,63,9,9,6,33,8,0,3,2,5,0,1,0,0,7,21,1,63,2FD12,14,0,21,Daniel Flipiardo,Australia,Oceania,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Nevada Ride,Estados Unidos,Norte América
+RE498,Veterano,6,63,9,9,8,37,6,3,2,1,3,0,1,0,0,6,22,5,9,2FD10,14,0,22,Leandro Gao,Brasil,Sudamérica,5,FIAT Rukkito,Manu,Blanco,#c8d4f9,Nevada Ride,Estados Unidos,Norte América
+RE499,Veterano,6,63,9,9,10,47,7,2,1,1,6,1,1,0,0,2,20,1,63,2FD13,14,0,20,Meg Azor,España,Europa,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Nevada Ride,Estados Unidos,Norte América
+RE500,Novato,6,63,9,9,4,52,5,4,5,2,0,0,0,0,0,1,19,5,9,2FD11,14,0,19,Whisky Raikkonen,Finlandia,Europa,5,FIAT Rukkito,Manu,Blanco,#c8d4f9,Nevada Ride,Estados Unidos,Norte América
+RE501,Novato,6,63,9,19,5,42,1,10,4,1,-3,0,0,0,0,5,17,4,63,2FD8,14,0,17,Jonny G. Junior,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Nevada Ride,Estados Unidos,Norte América
+RE502,Novato,6,63,9,29,2,44,4,5,7,1,-3,0,0,0,0,3,15,3,63,2FD9,14,0,15,Emerson Frikipaldi,Brasil,Sudamérica,3,CTS,Jes,Amarillo,#F28807,Nevada Ride,Estados Unidos,Norte América
+RE503,Veterano,6,63,9,29,3,43,3,6,6,2,-3,0,0,0,0,4,11,4,63,2FD7,14,0,11,Jimmy sin Diesel,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Nevada Ride,Estados Unidos,Norte América
+RE504,Veterano,6,63,9,29,0,23,2,8,9,2,-6,0,0,1,0,8,14,3,63,2FD2,14,0,14,Michael Schufaker,Alemania,Europa,3,CTS,Jes,Amarillo,#F28807,Nevada Ride,Estados Unidos,Norte América
+RE113,Novato,2,15,1,1,0,0,6,2,9,2,-2,0,0,1,0,5,10,2,15,,15,0,10,Aitor Menta,España,Europa,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Melbourne,Australia,Oceania
+RE114,Novato,2,15,1,1,0,0,8,0,9,3,0,0,0,1,0,7,9,3,15,,15,0,9,Friki Lauda,Austria,Europa,3,CTS,Jes,Amarillo,#F28807,Melbourne,Australia,Oceania
+RE115,Novato,2,15,1,1,0,0,3,6,9,2,-5,0,0,1,0,6,11,4,15,,15,0,11,Jimmy sin Diesel,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Melbourne,Australia,Oceania
+RE116,Novato,2,15,1,15,8,8,1,10,2,1,-1,0,1,0,0,2,3,1,15,,15,0,3,Speedy,Mexico,Norte América,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Melbourne,Australia,Oceania
+RE117,Veterano,2,15,1,15,0,0,4,4,9,3,-4,0,0,1,0,8,5,3,15,,15,0,5,Frenando Alfonso,España,Europa,3,CTS,Jes,Amarillo,#F28807,Melbourne,Australia,Oceania
+RE118,Veterano,2,15,1,15,6,6,2,8,3,1,-1,0,1,0,0,3,4,2,15,,15,0,4,Billy Wheels,Estados Unidos,Norte América,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Melbourne,Australia,Oceania
+RE119,Veterano,2,15,1,15,10,10,5,3,1,1,4,1,1,0,0,1,2,4,15,,15,0,2,Jonny Gasolina,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Melbourne,Australia,Oceania
+RE120,Veterano,2,15,1,15,4,4,7,1,4,2,3,0,0,0,0,4,1,1,15,,15,0,1,Osborne,España,Europa,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Melbourne,Australia,Oceania
+RE273,Novato,4,35,1,1,8,8,2,8,2,2,0,0,1,0,0,2,15,3,35,,15,0,15,Emerson Frikipaldi,Brasil,Sudamérica,3,CTS,Jes,Amarillo,#F28807,Melbourne,Australia,Oceania
+RE274,Novato,4,35,1,1,5,5,4,5,4,1,0,0,0,0,0,4,16,4,35,,15,0,16,Sony Diotas,Italia,Europa,4,Doble Cero,Sergio,Verde,#00BE08,Melbourne,Australia,Oceania
+RE275,Veterano,4,35,1,1,10,10,1,10,1,1,0,1,1,0,0,1,14,3,35,,15,0,14,Michael Schufaker,Alemania,Europa,3,CTS,Jes,Amarillo,#F28807,Melbourne,Australia,Oceania
+RE276,Veterano,4,35,1,1,2,2,5,4,7,2,-2,0,0,0,0,7,17,4,35,,15,0,17,Jonny G. Junior,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Melbourne,Australia,Oceania
+RE277,Novato,4,35,1,6,0,0,3,6,8,2,-5,0,0,0,0,8,13,2,35,,15,0,13,Toikoma Toso,Japón,Asia,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Melbourne,Australia,Oceania
+RE278,Veterano,4,35,1,11,6,6,7,2,3,1,4,0,1,0,0,3,12,1,35,,15,0,12,Vatto Dovlao,Portugal,Europa,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Melbourne,Australia,Oceania
+RE279,Novato,4,35,1,35,3,3,8,0,6,2,2,0,0,0,0,6,3,1,35,,15,0,3,Speedy,Mexico,Norte América,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Melbourne,Australia,Oceania
+RE280,Veterano,4,35,1,35,4,4,6,3,5,1,1,0,0,0,0,5,5,2,35,,15,0,5,Frenando Alfonso,España,Europa,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Melbourne,Australia,Oceania
+RE417,Novato,5,53,9,9,10,41,2,8,1,1,1,1,1,0,0,5,18,2,53,2FD3,15,0,18,Xter Minadora,Argentina,Sudamérica,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Melbourne,Australia,Oceania
+RE418,Novato,5,53,9,19,8,49,6,3,2,1,5,0,1,0,0,3,15,3,53,2FD1,15,1,15,Emerson Frikipaldi,Brasil,Sudamérica,3,CTS,Jes,Amarillo,#F28807,Melbourne,Australia,Oceania
+RE419,Veterano,5,53,9,19,0,58,7,2,8,2,-1,0,0,0,0,2,14,3,53,2FD2,15,1,14,Michael Schufaker,Alemania,Europa,3,CTS,Jes,Amarillo,#F28807,Melbourne,Australia,Oceania
+RE420,Veterano,5,53,9,24,3,42,3,6,6,2,-3,0,0,0,0,4,13,2,53,2FD4,15,0,13,Toikoma Toso,Japón,Asia,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Melbourne,Australia,Oceania
+RE421,Veterano,5,53,9,29,5,33,4,5,4,1,0,0,0,0,0,6,12,1,53,2FD6,15,0,12,Vatto Dovlao,Portugal,Europa,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Melbourne,Australia,Oceania
+RE422,Novato,5,53,9,43,2,28,8,0,7,2,1,0,0,0,0,8,2,4,53,2FD7,15,0,2,Jonny Gasolina,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Melbourne,Australia,Oceania
+RE423,Veterano,5,53,9,53,6,59,1,10,3,1,-2,0,1,0,0,1,5,4,53,2FD8,15,0,5,Frenando Alfonso,España,Europa,4,Doble Cero,Sergio,Verde,#00BE08,Melbourne,Australia,Oceania
+RE424,Novato,5,53,9,53,4,30,5,4,5,2,0,0,0,0,0,7,3,1,53,2FD5,15,0,3,Speedy,Mexico,Norte América,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Melbourne,Australia,Oceania
+RE121,Novato,2,16,2,2,6,6,3,6,3,1,0,0,1,0,0,5,9,3,16,,16,0,9,Friki Lauda,Austria,Europa,3,CTS,Jes,Amarillo,#F28807,Shanghai,China,Asia
+RE122,Novato,2,16,2,2,8,8,6,2,2,1,4,0,1,0,0,4,11,4,16,,16,0,11,Jimmy sin Diesel,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Shanghai,China,Asia
+RE123,Novato,2,16,2,2,4,4,4,4,4,2,0,0,0,0,0,7,10,2,16,,16,0,10,Aitor Menta,España,Europa,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Shanghai,China,Asia
+RE124,Novato,2,16,2,16,0,8,5,3,9,3,-3,0,0,1,0,3,3,1,16,,16,0,3,Speedy,Mexico,Norte América,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Shanghai,China,Asia
+RE125,Veterano,2,16,2,16,0,4,2,8,9,3,-6,0,0,1,0,6,1,1,16,,16,0,1,Osborne,España,Europa,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Shanghai,China,Asia
+RE126,Veterano,2,16,2,16,10,16,1,10,1,1,0,1,1,0,0,1,4,2,16,,16,0,4,Billy Wheels,Estados Unidos,Norte América,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Shanghai,China,Asia
+RE127,Veterano,2,16,2,16,3,13,7,1,5,2,2,0,0,0,0,2,2,4,16,,16,0,2,Jonny Gasolina,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Shanghai,China,Asia
+RE128,Veterano,2,16,2,16,2,2,8,0,6,2,2,0,0,0,0,8,5,3,16,,16,0,5,Frenando Alfonso,España,Europa,3,CTS,Jes,Amarillo,#F28807,Shanghai,China,Asia
+RE129,Novato,2,17,3,3,0,6,2,8,9,2,-6,0,0,1,0,8,9,3,17,,17,0,9,Friki Lauda,Austria,Europa,3,CTS,Jes,Amarillo,#F28807,Sakhir,Bahrein,Asia
+RE130,Novato,2,17,3,3,3,7,3,6,5,1,-2,0,0,0,0,7,10,2,17,,17,0,10,Aitor Menta,España,Europa,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Sakhir,Bahrein,Asia
+RE131,Novato,2,17,3,3,2,10,1,10,6,2,-5,0,0,0,0,6,11,4,17,,17,0,11,Jimmy sin Diesel,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Sakhir,Bahrein,Asia
+RE132,Novato,2,17,3,17,4,12,5,3,4,2,1,0,0,0,0,3,3,1,17,,17,0,3,Speedy,Mexico,Norte América,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Sakhir,Bahrein,Asia
+RE133,Veterano,2,17,3,17,0,16,6,2,9,2,-2,0,0,1,0,2,4,2,17,,17,0,4,Billy Wheels,Estados Unidos,Norte América,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Sakhir,Bahrein,Asia
+RE134,Veterano,2,17,3,17,10,12,4,4,1,1,3,1,1,0,0,4,5,3,17,,17,0,5,Frenando Alfonso,España,Europa,3,CTS,Jes,Amarillo,#F28807,Sakhir,Bahrein,Asia
+RE135,Veterano,2,17,3,17,8,21,7,1,2,1,5,0,1,0,0,1,2,4,17,,17,0,2,Jonny Gasolina,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Sakhir,Bahrein,Asia
+RE136,Veterano,2,17,3,17,6,10,8,0,3,1,5,0,1,0,0,5,1,1,17,,17,0,1,Osborne,España,Europa,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Sakhir,Bahrein,Asia
+RE369,Novato,5,47,3,3,6,15,7,2,3,1,4,0,1,0,0,3,18,2,47,2FD3,17,0,18,Xter Minadora,Argentina,Sudamérica,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Sakhir,Bahrein,Asia
+RE370,Novato,5,47,3,13,8,14,3,6,2,1,1,0,1,0,0,4,15,3,47,2FD1,17,0,15,Emerson Frikipaldi,Brasil,Sudamérica,3,CTS,Jes,Amarillo,#F28807,Sakhir,Bahrein,Asia
+RE371,Veterano,5,47,3,13,5,23,1,10,4,2,-2,0,0,0,0,2,14,3,47,2FD2,17,0,14,Michael Schufaker,Alemania,Europa,3,CTS,Jes,Amarillo,#F28807,Sakhir,Bahrein,Asia
+RE372,Veterano,5,47,3,18,4,12,8,0,5,2,3,0,0,0,0,5,13,2,47,2FD4,17,0,13,Toikoma Toso,Japón,Asia,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Sakhir,Bahrein,Asia
+RE373,Veterano,5,47,3,23,0,6,6,3,8,2,-2,0,0,0,0,7,12,1,47,2FD6,17,0,12,Vatto Dovlao,Portugal,Europa,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Sakhir,Bahrein,Asia
+RE374,Novato,5,47,3,37,2,8,5,4,7,2,0,0,0,0,0,6,2,4,47,2FD7,17,0,2,Jonny Gasolina,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Sakhir,Bahrein,Asia
+RE375,Veterano,5,47,3,47,10,28,2,8,1,1,1,1,1,0,0,1,5,4,47,2FD8,17,0,5,Frenando Alfonso,España,Europa,4,Doble Cero,Sergio,Verde,#00BE08,Sakhir,Bahrein,Asia
+RE376,Novato,5,47,3,47,3,6,4,5,6,1,-2,0,0,0,0,8,3,1,47,2FD5,17,0,3,Speedy,Mexico,Norte América,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Sakhir,Bahrein,Asia
+RE145,Novato,2,19,5,5,0,6,3,6,9,2,-5,0,0,1,0,8,9,3,19,,18,0,9,Friki Lauda,Austria,Europa,3,CTS,Jes,Amarillo,#F28807,Montmeló,España,Europa
+RE146,Novato,2,19,5,5,6,19,7,1,3,1,4,0,1,0,0,6,11,4,19,,18,0,11,Jimmy sin Diesel,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Montmeló,España,Europa
+RE147,Novato,2,19,5,5,2,17,5,3,6,2,-1,0,0,0,0,7,10,2,19,,18,0,10,Aitor Menta,España,Europa,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Montmeló,España,Europa
+RE148,Novato,2,19,5,19,10,24,2,8,1,1,1,1,1,0,0,3,3,1,19,,18,0,3,Speedy,Mexico,Norte América,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Montmeló,España,Europa
+RE149,Veterano,2,19,5,19,0,25,6,2,9,2,-2,0,0,1,0,2,2,4,19,,18,0,2,Jonny Gasolina,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Montmeló,España,Europa
+RE150,Veterano,2,19,5,19,8,30,1,10,2,1,-1,0,1,0,0,1,5,3,19,,18,0,5,Frenando Alfonso,España,Europa,3,CTS,Jes,Amarillo,#F28807,Montmeló,España,Europa
+RE151,Veterano,2,19,5,19,4,20,4,4,4,1,0,0,0,0,0,4,4,2,19,,18,0,4,Billy Wheels,Estados Unidos,Norte América,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Montmeló,España,Europa
+RE152,Veterano,2,19,5,19,3,19,8,0,5,2,3,0,0,0,0,5,1,1,19,,18,0,1,Osborne,España,Europa,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Montmeló,España,Europa
+RE289,Novato,4,37,3,3,8,17,4,5,2,1,2,0,1,0,0,3,16,4,37,,18,0,16,Sony Diotas,Italia,Europa,4,Doble Cero,Sergio,Verde,#00BE08,Montmeló,España,Europa
+RE290,Novato,4,37,3,3,5,19,6,3,4,2,2,0,0,0,0,2,15,3,37,,18,0,15,Emerson Frikipaldi,Brasil,Sudamérica,3,CTS,Jes,Amarillo,#F28807,Montmeló,España,Europa
+RE291,Veterano,4,37,3,3,6,24,1,10,3,1,-2,0,1,0,0,1,14,3,37,,18,0,14,Michael Schufaker,Alemania,Europa,3,CTS,Jes,Amarillo,#F28807,Montmeló,España,Europa
+RE292,Veterano,4,37,3,3,4,16,2,8,5,2,-3,0,0,0,0,4,17,4,37,,18,0,17,Jonny G. Junior,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Montmeló,España,Europa
+RE293,Novato,4,37,3,8,10,10,3,6,1,1,2,1,1,0,0,5,13,2,37,,18,0,13,Toikoma Toso,Japón,Asia,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Montmeló,España,Europa
+RE294,Veterano,4,37,3,13,3,9,5,4,6,1,-1,0,0,0,0,7,12,1,37,,18,0,12,Vatto Dovlao,Portugal,Europa,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Montmeló,España,Europa
+RE295,Novato,4,37,3,37,2,10,7,2,7,2,0,0,0,0,0,6,3,1,37,,18,0,3,Speedy,Mexico,Norte América,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Montmeló,España,Europa
+RE296,Veterano,4,37,3,37,0,4,8,0,9,2,0,0,0,1,0,8,5,2,37,,18,0,5,Frenando Alfonso,España,Europa,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Montmeló,España,Europa
+RE545,Novato,7,69,5,15,8,37,4,5,2,1,2,0,1,0,0,1,21,1,69,2FD12,18,0,21,Daniel Flipiardo,Australia,Oceania,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Montmeló,España,Europa
+RE546,Novato,7,69,5,35,4,24,3,6,5,1,-2,0,0,0,0,4,15,3,69,2FD9,18,0,15,Emerson Frikipaldi,Brasil,Sudamérica,3,CTS,Jes,Amarillo,#F28807,Montmeló,España,Europa
+RE547,Veterano,7,69,5,35,0,9,5,4,9,2,-3,0,0,1,0,8,11,4,69,2FD7,18,0,11,Jimmy sin Diesel,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Montmeló,España,Europa
+RE548,Novato,7,69,5,25,5,29,8,0,4,1,4,0,0,0,0,3,17,4,69,2FD8,18,0,17,Jonny G. Junior,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Montmeló,España,Europa
+RE549,Veterano,7,69,5,5,10,19,6,3,1,1,5,1,1,0,0,6,23,5,15,2FD10,18,0,23,Mad Max Verstappen,Holanda,Europa,5,FIAT Rukkito,Manu,Blanco,#c8d4f9,Montmeló,España,Europa
+RE550,Veterano,7,69,5,15,6,16,7,2,3,2,4,0,1,0,0,7,20,1,69,2FD13,18,0,20,Meg Azor,España,Europa,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Montmeló,España,Europa
+RE551,Veterano,7,69,5,35,0,30,1,10,9,2,-7,0,0,1,0,2,14,3,69,2FD14,18,0,14,Michael Schufaker,Alemania,Europa,3,CTS,Jes,Amarillo,#F28807,Montmeló,España,Europa
+RE552,Novato,7,69,5,15,3,22,2,8,6,2,-4,0,0,0,0,5,19,5,15,2FD11,18,0,19,Whisky Raikkonen,Finlandia,Europa,5,FIAT Rukkito,Manu,Blanco,#c8d4f9,Montmeló,España,Europa
+RE161,Novato,2,21,7,7,0,6,5,3,9,2,-3,0,0,1,0,8,9,3,21,,19,0,9,Friki Lauda,Austria,Europa,3,CTS,Jes,Amarillo,#F28807,Montreal,Canada,Norte América
+RE162,Novato,2,21,7,7,8,27,7,1,2,1,5,0,1,0,0,6,10,2,21,,19,0,10,Aitor Menta,España,Europa,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Montreal,Canada,Norte América
+RE163,Novato,2,21,7,7,10,33,3,6,1,1,2,1,1,0,0,3,11,4,21,,19,0,11,Jimmy sin Diesel,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Montreal,Canada,Norte América
+RE164,Novato,2,21,7,21,0,32,1,10,9,2,-7,0,0,1,0,4,3,1,21,,19,0,3,Speedy,Mexico,Norte América,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Montreal,Canada,Norte América
+RE165,Veterano,2,21,7,21,0,30,6,2,9,2,-2,0,0,1,0,5,4,2,21,,19,0,4,Billy Wheels,Estados Unidos,Norte América,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Montreal,Canada,Norte América
+RE166,Veterano,2,21,7,21,6,25,2,8,3,1,-1,0,1,0,0,7,1,1,21,,19,0,1,Osborne,España,Europa,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Montreal,Canada,Norte América
+RE167,Veterano,2,21,7,21,4,35,4,4,4,2,0,0,0,0,0,2,2,4,21,,19,0,2,Jonny Gasolina,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Montreal,Canada,Norte América
+RE168,Veterano,2,21,7,21,3,36,8,0,5,1,3,0,0,0,0,1,5,3,21,,19,0,5,Frenando Alfonso,España,Europa,3,CTS,Jes,Amarillo,#F28807,Montreal,Canada,Norte América
+RE177,Novato,2,23,9,9,0,37,6,2,9,2,-2,0,0,1,0,4,11,4,23,,20,0,11,Jimmy sin Diesel,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Zeltweg,Austria,Europa
+RE178,Novato,2,23,9,9,2,37,2,8,6,1,-4,0,0,0,0,5,10,2,23,,20,0,10,Aitor Menta,España,Europa,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Zeltweg,Austria,Europa
+RE179,Novato,2,23,9,9,4,10,5,3,4,2,1,0,0,0,0,8,9,3,23,,20,0,9,Friki Lauda,Austria,Europa,3,CTS,Jes,Amarillo,#F28807,Zeltweg,Austria,Europa
+RE180,Novato,2,23,9,23,10,45,3,6,1,1,2,1,1,0,0,2,3,1,23,,20,0,3,Speedy,Mexico,Norte América,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Zeltweg,Austria,Europa
+RE181,Veterano,2,23,9,23,8,33,1,10,2,2,-1,0,1,0,0,6,1,1,23,,20,0,1,Osborne,España,Europa,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Zeltweg,Austria,Europa
+RE182,Veterano,2,23,9,23,6,52,8,0,3,1,5,0,1,0,0,1,5,3,23,,20,0,5,Frenando Alfonso,España,Europa,3,CTS,Jes,Amarillo,#F28807,Zeltweg,Austria,Europa
+RE183,Veterano,2,23,9,23,1,31,7,1,7,2,0,0,0,0,0,7,4,2,23,,20,0,4,Billy Wheels,Estados Unidos,Norte América,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Zeltweg,Austria,Europa
+RE184,Veterano,2,23,9,23,3,44,4,4,5,1,-1,0,0,0,0,3,2,4,23,,20,0,2,Jonny Gasolina,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Zeltweg,Austria,Europa
+RE305,Novato,4,39,5,5,0,19,7,2,9,2,-1,0,0,1,0,7,16,4,39,,20,0,16,Sony Diotas,Italia,Europa,4,Doble Cero,Sergio,Verde,#00BE08,Zeltweg,Austria,Europa
+RE306,Novato,4,39,5,5,4,27,5,4,5,1,0,0,0,0,0,2,15,3,39,,20,0,15,Emerson Frikipaldi,Brasil,Sudamérica,3,CTS,Jes,Amarillo,#F28807,Zeltweg,Austria,Europa
+RE307,Veterano,4,39,5,5,0,34,4,5,9,2,-4,0,0,1,0,1,14,3,39,,20,0,14,Michael Schufaker,Alemania,Europa,3,CTS,Jes,Amarillo,#F28807,Zeltweg,Austria,Europa
+RE308,Veterano,4,39,5,5,10,26,3,6,1,1,2,1,1,0,0,3,17,4,39,,20,0,17,Jonny G. Junior,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Zeltweg,Austria,Europa
+RE309,Novato,4,39,5,10,8,21,8,0,2,1,6,0,1,0,0,5,13,2,39,,20,0,13,Toikoma Toso,Japón,Asia,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Zeltweg,Austria,Europa
+RE310,Veterano,4,39,5,15,6,20,2,8,3,1,-1,0,1,0,0,6,12,1,39,,20,0,12,Vatto Dovlao,Portugal,Europa,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Zeltweg,Austria,Europa
+RE311,Novato,4,39,5,39,5,21,6,3,4,2,2,0,0,0,0,4,3,1,39,,20,0,3,Speedy,Mexico,Norte América,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Zeltweg,Austria,Europa
+RE312,Veterano,4,39,5,39,0,12,1,10,9,2,-7,0,0,1,0,8,5,2,39,,20,0,5,Frenando Alfonso,España,Europa,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Zeltweg,Austria,Europa
+RE185,Novato,2,24,10,10,6,16,4,4,3,1,1,0,1,0,0,8,9,3,24,,21,0,9,Friki Lauda,Austria,Europa,3,CTS,Jes,Amarillo,#F28807,Silverstone,Inglaterra,Europa
+RE186,Novato,2,24,10,10,2,39,7,1,6,2,1,0,0,0,0,6,10,2,24,,21,0,10,Aitor Menta,España,Europa,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Silverstone,Inglaterra,Europa
+RE187,Novato,2,24,10,10,3,40,5,3,5,2,0,0,0,0,0,5,11,4,24,,21,1,11,Jimmy sin Diesel,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Silverstone,Inglaterra,Europa
+RE188,Novato,2,24,10,24,0,45,6,2,9,2,-2,0,0,1,0,3,3,1,24,,21,0,3,Speedy,Mexico,Norte América,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Silverstone,Inglaterra,Europa
+RE189,Veterano,2,24,10,24,10,41,3,6,1,1,2,1,1,0,0,4,4,2,24,,21,0,4,Billy Wheels,Estados Unidos,Norte América,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Silverstone,Inglaterra,Europa
+RE190,Veterano,2,24,10,24,8,52,1,10,2,1,-1,0,1,0,0,2,2,4,24,,21,1,2,Jonny Gasolina,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Silverstone,Inglaterra,Europa
+RE191,Veterano,2,24,10,24,4,56,8,0,4,2,4,0,0,0,1,1,5,3,24,,21,0,5,Frenando Alfonso,España,Europa,3,CTS,Jes,Amarillo,#F28807,Silverstone,Inglaterra,Europa
+RE192,Veterano,2,24,10,24,1,34,2,8,7,1,-5,0,0,0,0,7,1,1,24,,21,0,1,Osborne,España,Europa,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Silverstone,Inglaterra,Europa
+RE313,Novato,4,40,6,6,0,27,7,2,9,2,-1,0,0,1,1,5,15,3,40,,21,0,15,Emerson Frikipaldi,Brasil,Sudamérica,3,CTS,Jes,Amarillo,#F28807,Silverstone,Inglaterra,Europa
+RE314,Novato,4,40,6,6,5,24,6,3,4,1,2,0,0,0,0,7,16,4,40,,21,0,16,Sony Diotas,Italia,Europa,4,Doble Cero,Sergio,Verde,#00BE08,Silverstone,Inglaterra,Europa
+RE315,Veterano,4,40,6,6,6,40,8,0,3,1,5,0,1,0,0,1,14,3,40,,21,0,14,Michael Schufaker,Alemania,Europa,3,CTS,Jes,Amarillo,#F28807,Silverstone,Inglaterra,Europa
+RE316,Veterano,4,40,6,6,3,29,2,8,6,2,-4,0,0,0,0,3,17,4,40,,21,0,17,Jonny G. Junior,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Silverstone,Inglaterra,Europa
+RE317,Novato,4,40,6,11,8,29,1,10,2,1,-1,0,1,0,0,4,13,2,40,,21,0,13,Toikoma Toso,Japón,Asia,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Silverstone,Inglaterra,Europa
+RE318,Veterano,4,40,6,16,10,30,4,5,1,1,3,1,1,0,0,2,12,1,40,,21,0,12,Vatto Dovlao,Portugal,Europa,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Silverstone,Inglaterra,Europa
+RE319,Novato,4,40,6,40,4,25,5,4,5,2,0,0,0,0,0,6,3,1,40,,21,0,3,Speedy,Mexico,Norte América,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Silverstone,Inglaterra,Europa
+RE320,Veterano,4,40,6,40,2,14,3,6,7,2,-4,0,0,0,0,8,5,2,40,,21,0,5,Frenando Alfonso,España,Europa,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Silverstone,Inglaterra,Europa
+RE193,Novato,3,25,1,11,8,8,6,3,2,1,4,0,1,0,0,2,11,4,25,,22,0,11,Jimmy sin Diesel,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Hungagoring,Hungria,Europa
+RE194,Novato,3,25,1,11,1,1,3,6,7,1,-4,0,0,0,0,7,10,2,25,,22,0,10,Aitor Menta,España,Europa,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Hungagoring,Hungria,Europa
+RE195,Veterano,3,25,1,1,2,2,5,4,6,2,-1,0,0,0,0,6,12,1,25,,22,0,12,Vatto Dovlao,Portugal,Europa,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Hungagoring,Hungria,Europa
+RE196,Novato,3,25,1,15,4,4,7,2,4,2,3,0,0,0,0,4,6,3,25,,22,0,6,Justa Victoria,Italia,Europa,3,CTS,Jes,Amarillo,#F28807,Hungagoring,Hungria,Europa
+RE197,Novato,3,25,1,25,10,10,1,10,1,1,0,1,1,0,0,1,3,1,25,,22,0,3,Speedy,Mexico,Norte América,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Hungagoring,Hungria,Europa
+RE198,Veterano,3,25,1,25,0,0,4,5,9,2,-4,0,0,1,0,8,4,2,25,,22,0,4,Billy Wheels,Estados Unidos,Norte América,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Hungagoring,Hungria,Europa
+RE199,Veterano,3,25,1,25,6,6,8,0,3,1,5,0,1,0,0,3,5,3,25,,22,0,5,Frenando Alfonso,España,Europa,3,CTS,Jes,Amarillo,#F28807,Hungagoring,Hungria,Europa
+RE200,Veterano,3,25,1,25,3,3,2,8,5,2,-3,0,0,0,0,5,2,4,25,,22,0,2,Jonny Gasolina,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Hungagoring,Hungria,Europa
+RE201,Novato,3,26,2,12,10,18,3,6,1,1,2,1,1,0,0,1,11,4,26,,23,0,11,Jimmy sin Diesel,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Spa,Bélgica,Europa
+RE202,Novato,3,26,2,12,2,3,6,3,6,2,0,0,0,0,0,8,10,2,26,,23,0,10,Aitor Menta,España,Europa,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Spa,Bélgica,Europa
+RE203,Veterano,3,26,2,2,6,8,5,4,3,1,2,0,1,0,0,4,12,1,26,,23,0,12,Vatto Dovlao,Portugal,Europa,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Spa,Bélgica,Europa
+RE204,Novato,3,26,2,16,0,4,1,10,9,2,-7,0,0,1,0,5,6,3,26,,23,0,6,Justa Victoria,Italia,Europa,3,CTS,Jes,Amarillo,#F28807,Spa,Bélgica,Europa
+RE205,Novato,3,26,2,26,3,13,4,5,5,2,-1,0,0,0,0,3,3,1,26,,23,0,3,Speedy,Mexico,Norte América,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Spa,Bélgica,Europa
+RE206,Veterano,3,26,2,26,8,14,2,8,2,1,0,0,1,0,0,4,5,3,26,,23,0,5,Frenando Alfonso,España,Europa,3,CTS,Jes,Amarillo,#F28807,Spa,Bélgica,Europa
+RE207,Veterano,3,26,2,26,4,4,8,0,4,1,4,0,0,0,0,7,4,2,26,,23,0,4,Billy Wheels,Estados Unidos,Norte América,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Spa,Bélgica,Europa
+RE208,Veterano,3,26,2,26,1,4,7,2,7,2,0,0,0,0,0,6,2,4,26,,23,0,2,Jonny Gasolina,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Spa,Bélgica,Europa
+RE217,Novato,3,28,4,14,4,7,8,0,4,2,4,0,0,0,0,8,10,2,28,,24,0,10,Aitor Menta,España,Europa,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Monza,Italia,Europa
+RE218,Novato,3,28,4,14,1,27,5,4,7,2,-2,0,0,0,0,2,11,4,28,,24,0,11,Jimmy sin Diesel,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Monza,Italia,Europa
+RE219,Veterano,3,28,4,4,10,24,4,5,1,1,3,1,1,0,0,3,12,1,28,,24,0,12,Vatto Dovlao,Portugal,Europa,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Monza,Italia,Europa
+RE220,Novato,3,28,4,18,0,7,6,3,8,2,-2,0,0,0,0,7,6,3,28,,24,0,6,Justa Victoria,Italia,Europa,3,CTS,Jes,Amarillo,#F28807,Monza,Italia,Europa
+RE221,Novato,3,28,4,28,8,31,2,8,2,2,0,0,1,0,0,1,3,1,28,,24,0,3,Speedy,Mexico,Norte América,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Monza,Italia,Europa
+RE222,Veterano,3,28,4,28,6,11,1,10,3,1,-2,0,1,0,0,6,4,2,28,,24,0,4,Billy Wheels,Estados Unidos,Norte América,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Monza,Italia,Europa
+RE223,Veterano,3,28,4,28,3,11,3,6,5,1,-2,0,0,0,0,5,2,4,28,,24,0,2,Jonny Gasolina,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Monza,Italia,Europa
+RE224,Veterano,3,28,4,28,2,18,7,2,6,1,1,0,0,0,0,4,5,3,28,,24,0,5,Frenando Alfonso,España,Europa,3,CTS,Jes,Amarillo,#F28807,Monza,Italia,Europa
+RE321,Novato,4,41,7,7,0,24,8,0,9,2,0,0,0,1,0,7,16,4,41,,24,0,16,Sony Diotas,Italia,Europa,4,Doble Cero,Sergio,Verde,#00BE08,Monza,Italia,Europa
+RE322,Novato,4,41,7,7,10,37,6,3,1,1,5,1,1,0,0,2,15,3,41,,24,0,15,Emerson Frikipaldi,Brasil,Sudamérica,3,CTS,Jes,Amarillo,#F28807,Monza,Italia,Europa
+RE323,Veterano,4,41,7,7,6,35,5,4,3,1,2,0,1,0,0,3,17,4,41,,24,0,17,Jonny G. Junior,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Monza,Italia,Europa
+RE324,Veterano,4,41,7,7,2,42,3,6,7,2,-5,0,0,0,0,1,14,3,41,,24,0,14,Michael Schufaker,Alemania,Europa,3,CTS,Jes,Amarillo,#F28807,Monza,Italia,Europa
+RE325,Novato,4,41,7,12,4,33,7,2,5,2,2,0,0,0,0,4,13,2,41,,24,0,13,Toikoma Toso,Japón,Asia,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Monza,Italia,Europa
+RE326,Veterano,4,41,7,17,3,33,4,5,6,2,-2,0,0,0,0,5,12,1,41,,24,0,12,Vatto Dovlao,Portugal,Europa,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Monza,Italia,Europa
+RE327,Novato,4,41,7,41,5,30,2,8,4,1,-2,0,0,0,0,6,3,1,41,,24,0,3,Speedy,Mexico,Norte América,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Monza,Italia,Europa
+RE328,Veterano,4,41,7,41,8,22,1,10,2,1,-1,0,1,0,0,8,5,2,41,,24,0,5,Frenando Alfonso,España,Europa,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Monza,Italia,Europa
+RE233,Novato,3,30,6,1,3,3,1,10,5,1,-4,0,0,0,0,9,13,2,30,,25,0,13,Toikoma Toso,Japón,Asia,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Suzuka,Japón,Asia
+RE234,Novato,3,30,6,16,8,37,2,8,2,1,0,0,1,0,0,2,11,4,30,,25,0,11,Jimmy sin Diesel,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Suzuka,Japón,Asia
+RE235,Veterano,3,30,6,6,2,26,8,0,6,2,2,0,0,0,0,4,12,1,30,,25,0,12,Vatto Dovlao,Portugal,Europa,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Suzuka,Japón,Asia
+RE236,Novato,3,30,6,20,4,14,3,6,4,1,-1,0,0,0,0,7,6,3,30,,25,0,6,Justa Victoria,Italia,Europa,3,CTS,Jes,Amarillo,#F28807,Suzuka,Japón,Asia
+RE237,Novato,3,30,6,30,10,45,5,4,1,1,4,1,1,0,0,1,3,1,30,,25,0,3,Speedy,Mexico,Norte América,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Suzuka,Japón,Asia
+RE238,Veterano,3,30,6,30,0,21,4,5,9,2,-4,0,0,1,0,6,4,2,30,,25,0,4,Billy Wheels,Estados Unidos,Norte América,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Suzuka,Japón,Asia
+RE239,Veterano,3,30,6,30,0,26,7,2,9,2,-1,0,0,1,0,3,5,3,30,,25,0,5,Frenando Alfonso,España,Europa,3,CTS,Jes,Amarillo,#F28807,Suzuka,Japón,Asia
+RE240,Veterano,3,30,6,30,6,23,6,3,3,2,3,0,1,0,0,5,2,4,30,,25,0,2,Jonny Gasolina,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Suzuka,Japón,Asia
+RE337,Novato,4,43,9,9,0,24,6,3,9,3,-2,0,0,1,0,8,16,4,43,,25,0,16,Sony Diotas,Italia,Europa,4,Doble Cero,Sergio,Verde,#00BE08,Suzuka,Japón,Asia
+RE338,Novato,4,43,9,9,10,57,5,4,1,1,4,1,1,0,0,1,15,3,43,,25,1,15,Emerson Frikipaldi,Brasil,Sudamérica,3,CTS,Jes,Amarillo,#F28807,Suzuka,Japón,Asia
+RE339,Veterano,4,43,9,9,0,40,8,0,9,3,0,0,0,1,0,4,17,4,43,,25,0,17,Jonny G. Junior,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Suzuka,Japón,Asia
+RE340,Veterano,4,43,9,9,6,54,7,2,3,2,4,0,1,0,0,2,14,3,43,,25,1,14,Michael Schufaker,Alemania,Europa,3,CTS,Jes,Amarillo,#F28807,Suzuka,Japón,Asia
+RE341,Novato,4,43,9,14,4,39,4,5,5,1,-1,0,0,0,0,5,13,2,43,,25,0,13,Toikoma Toso,Japón,Asia,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Suzuka,Japón,Asia
+RE342,Veterano,4,43,9,19,8,49,2,8,2,1,0,0,1,0,0,3,12,1,43,,25,0,12,Vatto Dovlao,Portugal,Europa,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Suzuka,Japón,Asia
+RE343,Novato,4,43,9,43,5,38,3,6,4,2,-1,0,0,0,0,6,3,1,43,,25,0,3,Speedy,Mexico,Norte América,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Suzuka,Japón,Asia
+RE344,Veterano,4,43,9,43,0,26,1,10,9,2,-7,0,0,1,0,7,5,2,43,,25,0,5,Frenando Alfonso,España,Europa,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Suzuka,Japón,Asia
+RE241,Novato,3,31,7,2,4,7,2,8,4,2,-2,0,0,0,0,9,13,2,31,,26,0,13,Toikoma Toso,Japón,Asia,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Autódromo Hermanos Rodríguez,México,Norte América
+RE242,Novato,3,31,7,17,3,40,8,0,5,2,3,0,0,0,0,2,11,4,31,,26,0,11,Jimmy sin Diesel,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Autódromo Hermanos Rodríguez,México,Norte América
+RE243,Veterano,3,31,7,7,0,26,4,5,8,2,-4,0,0,0,0,6,12,1,31,,26,0,12,Vatto Dovlao,Portugal,Europa,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Autódromo Hermanos Rodríguez,México,Norte América
+RE244,Novato,3,31,7,21,8,22,1,10,2,1,-1,0,1,0,0,7,6,3,31,,26,0,6,Justa Victoria,Italia,Europa,3,CTS,Jes,Amarillo,#F28807,Autódromo Hermanos Rodríguez,México,Norte América
+RE245,Novato,3,31,7,31,2,47,3,6,6,1,-3,0,0,0,0,1,3,1,31,,26,0,3,Speedy,Mexico,Norte América,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Autódromo Hermanos Rodríguez,México,Norte América
+RE246,Veterano,3,31,7,31,6,27,6,3,3,1,3,0,1,0,0,5,4,2,31,,26,0,4,Billy Wheels,Estados Unidos,Norte América,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Autódromo Hermanos Rodríguez,México,Norte América
+RE247,Veterano,3,31,7,31,10,33,5,4,1,1,4,1,1,0,0,3,2,4,31,,26,0,2,Jonny Gasolina,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Autódromo Hermanos Rodríguez,México,Norte América
+RE248,Veterano,3,31,7,31,1,27,7,2,7,2,0,0,0,0,0,4,5,3,31,,26,0,5,Frenando Alfonso,España,Europa,3,CTS,Jes,Amarillo,#F28807,Autódromo Hermanos Rodríguez,México,Norte América
+RE393,Novato,5,50,6,6,4,28,2,8,5,2,-3,0,0,0,0,3,18,2,50,2FD3,26,0,18,Xter Minadora,Argentina,Sudamérica,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Autódromo Hermanos Rodríguez,México,Norte América
+RE394,Novato,5,50,6,16,3,25,5,4,6,2,-1,0,0,0,0,5,15,3,50,2FD1,26,0,15,Emerson Frikipaldi,Brasil,Sudamérica,3,CTS,Jes,Amarillo,#F28807,Autódromo Hermanos Rodríguez,México,Norte América
+RE395,Veterano,5,50,6,16,6,44,3,6,3,1,0,0,1,0,0,2,14,3,50,2FD2,26,0,14,Michael Schufaker,Alemania,Europa,3,CTS,Jes,Amarillo,#F28807,Autódromo Hermanos Rodríguez,México,Norte América
+RE396,Veterano,5,50,6,21,8,27,1,10,2,1,-1,0,1,0,0,4,13,2,50,2FD4,26,0,13,Toikoma Toso,Japón,Asia,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Autódromo Hermanos Rodríguez,México,Norte América
+RE397,Veterano,5,50,6,26,2,17,4,5,7,1,-3,0,0,0,0,8,12,1,50,2FD6,26,0,12,Vatto Dovlao,Portugal,Europa,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Autódromo Hermanos Rodríguez,México,Norte América
+RE398,Novato,5,50,6,40,10,22,6,3,1,1,5,1,1,0,0,6,2,4,50,2FD7,26,0,2,Jonny Gasolina,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Autódromo Hermanos Rodríguez,México,Norte América
+RE399,Veterano,5,50,6,50,5,45,8,0,4,2,4,0,0,0,0,1,5,4,50,2FD8,26,0,5,Frenando Alfonso,España,Europa,4,Doble Cero,Sergio,Verde,#00BE08,Autódromo Hermanos Rodríguez,México,Norte América
+RE400,Novato,5,50,6,50,0,18,7,2,8,2,-1,0,0,0,0,7,3,1,50,2FD5,26,0,3,Speedy,Mexico,Norte América,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Autódromo Hermanos Rodríguez,México,Norte América
+RE249,Novato,3,32,8,3,3,10,6,3,5,1,1,0,0,0,0,8,13,2,32,,27,0,13,Toikoma Toso,Japón,Asia,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Interlagos,Brasil,Sudamérica
+RE250,Novato,3,32,8,18,4,44,1,10,4,2,-3,0,0,0,0,2,11,4,32,,27,0,11,Jimmy sin Diesel,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Interlagos,Brasil,Sudamérica
+RE251,Veterano,3,32,8,8,8,34,3,6,2,1,1,0,1,0,0,4,12,1,32,,27,0,12,Vatto Dovlao,Portugal,Europa,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Interlagos,Brasil,Sudamérica
+RE252,Novato,3,32,8,22,0,22,4,5,8,2,-4,0,0,0,0,7,6,3,32,,27,0,6,Justa Victoria,Italia,Europa,3,CTS,Jes,Amarillo,#F28807,Interlagos,Brasil,Sudamérica
+RE253,Novato,3,32,8,32,1,48,7,2,7,2,0,0,0,0,0,1,3,1,32,,27,0,3,Speedy,Mexico,Norte América,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Interlagos,Brasil,Sudamérica
+RE254,Veterano,3,32,8,32,10,43,2,8,1,1,1,1,1,0,0,3,2,4,32,,27,0,2,Jonny Gasolina,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Interlagos,Brasil,Sudamérica
+RE255,Veterano,3,32,8,32,6,33,5,4,3,1,2,0,1,0,0,5,5,3,32,,27,0,5,Frenando Alfonso,España,Europa,3,CTS,Jes,Amarillo,#F28807,Interlagos,Brasil,Sudamérica
+RE256,Veterano,3,32,8,32,2,29,8,0,6,2,2,0,0,0,0,6,4,2,32,,27,0,4,Billy Wheels,Estados Unidos,Norte América,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Interlagos,Brasil,Sudamérica
+RE345,Novato,4,44,10,10,10,34,4,5,1,1,3,1,1,0,0,7,16,4,44,,27,0,16,Sony Diotas,Italia,Europa,4,Doble Cero,Sergio,Verde,#00BE08,Interlagos,Brasil,Sudamérica
+RE346,Novato,4,44,10,10,2,59,2,8,7,2,-5,0,0,0,0,1,15,3,44,,27,0,15,Emerson Frikipaldi,Brasil,Sudamérica,3,CTS,Jes,Amarillo,#F28807,Interlagos,Brasil,Sudamérica
+RE347,Veterano,4,44,10,10,4,44,7,2,5,2,2,0,0,0,0,4,17,4,44,,27,0,17,Jonny G. Junior,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Interlagos,Brasil,Sudamérica
+RE348,Veterano,4,44,10,10,3,57,5,4,6,1,-1,0,0,0,0,2,14,3,44,,27,0,14,Michael Schufaker,Alemania,Europa,3,CTS,Jes,Amarillo,#F28807,Interlagos,Brasil,Sudamérica
+RE349,Novato,4,44,10,15,5,44,8,0,4,1,2,0,0,0,0,5,13,2,44,,27,0,13,Toikoma Toso,Japón,Asia,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Interlagos,Brasil,Sudamérica
+RE350,Veterano,4,44,10,20,8,57,3,6,2,1,1,0,1,0,0,3,12,1,44,,27,0,12,Vatto Dovlao,Portugal,Europa,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Interlagos,Brasil,Sudamérica
+RE351,Novato,4,44,10,44,6,44,6,3,3,2,5,0,1,0,0,6,3,1,44,,27,0,3,Speedy,Mexico,Norte América,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Interlagos,Brasil,Sudamérica
+RE352,Veterano,4,44,10,44,0,26,1,10,8,2,-7,0,0,0,0,8,5,2,44,,27,0,5,Frenando Alfonso,España,Europa,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Interlagos,Brasil,Sudamérica
+RE505,Novato,6,64,10,10,0,33,1,10,9,2,-7,0,0,1,0,7,21,1,64,2FD12,27,0,21,Daniel Flipiardo,Australia,Oceania,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Interlagos,Brasil,Sudamérica
+RE506,Veterano,6,64,10,10,3,40,8,0,6,1,2,0,0,0,0,6,22,5,10,2FD10,27,0,22,Leandro Gao,Brasil,Sudamérica,5,FIAT Rukkito,Manu,Blanco,#c8d4f9,Interlagos,Brasil,Sudamérica
+RE507,Veterano,6,64,10,10,5,52,4,5,4,1,0,0,0,0,0,3,20,1,64,2FD13,27,0,20,Meg Azor,España,Europa,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Interlagos,Brasil,Sudamérica
+RE508,Novato,6,64,10,10,0,52,6,3,9,2,-2,0,0,1,0,2,19,5,10,2FD11,27,0,19,Whisky Raikkonen,Finlandia,Europa,5,FIAT Rukkito,Manu,Blanco,#c8d4f9,Interlagos,Brasil,Sudamérica
+RE509,Novato,6,64,10,20,6,48,2,8,3,2,-1,0,1,0,0,5,17,4,64,2FD8,27,1,17,Jonny G. Junior,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Interlagos,Brasil,Sudamérica
+RE510,Novato,6,64,10,30,8,52,7,2,2,1,5,0,1,0,0,4,15,3,64,2FD9,27,0,15,Emerson Frikipaldi,Brasil,Sudamérica,3,CTS,Jes,Amarillo,#F28807,Interlagos,Brasil,Sudamérica
+RE511,Veterano,6,64,10,30,10,53,3,6,1,1,2,1,1,0,1,1,11,4,64,2FD7,27,1,11,Jimmy sin Diesel,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Interlagos,Brasil,Sudamérica
+RE512,Veterano,6,64,10,30,4,27,5,4,5,2,-1,0,0,0,0,8,14,3,64,2FD2,27,0,14,Michael Schufaker,Alemania,Europa,3,CTS,Jes,Amarillo,#F28807,Interlagos,Brasil,Sudamérica
+RE585,Novato,7,74,10,30,10,59,2,8,1,1,1,1,1,0,0,3,17,4,74,2FD8,27,0,17,Jonny G. Junior,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Interlagos,Brasil,Sudamérica
+RE586,Veterano,7,74,10,40,8,65,4,5,2,1,2,0,1,0,0,2,14,3,74,2FD14,27,0,14,Michael Schufaker,Alemania,Europa,3,CTS,Jes,Amarillo,#F28807,Interlagos,Brasil,Sudamérica
+RE587,Novato,7,74,10,20,6,67,1,10,3,1,-3,0,1,0,1,1,21,1,74,2FD12,27,1,21,Daniel Flipiardo,Australia,Oceania,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Interlagos,Brasil,Sudamérica
+RE588,Veterano,7,74,10,20,4,52,5,4,5,1,0,0,0,0,0,4,19,5,20,2FD11,27,0,19,Whisky Raikkonen,Finlandia,Europa,5,FIAT Rukkito,Manu,Blanco,#c8d4f9,Interlagos,Brasil,Sudamérica
+RE589,Novato,7,74,10,10,3,35,7,2,6,2,1,0,0,0,0,6,23,5,20,2FD10,27,0,23,Mad Max Verstappen,Holanda,Europa,5,FIAT Rukkito,Manu,Blanco,#c8d4f9,Interlagos,Brasil,Sudamérica
+RE590,Veterano,7,74,10,20,2,40,8,0,7,2,2,0,0,0,0,5,20,1,74,2FD13,27,1,20,Meg Azor,España,Europa,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Interlagos,Brasil,Sudamérica
+RE591,Novato,7,74,10,40,0,34,3,6,9,2,-5,0,0,1,0,7,15,3,74,2FD9,27,0,15,Emerson Frikipaldi,Brasil,Sudamérica,3,CTS,Jes,Amarillo,#F28807,Interlagos,Brasil,Sudamérica
+RE592,Veterano,7,74,10,40,5,24,6,3,4,2,2,0,0,0,0,8,11,4,74,2FD7,27,0,11,Jimmy sin Diesel,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Interlagos,Brasil,Sudamérica
+RE257,Novato,3,33,9,4,3,13,2,8,5,2,-3,0,0,0,0,8,13,2,33,,28,0,13,Toikoma Toso,Japón,Asia,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Sepang,Malasia,Asia
+RE258,Novato,3,33,9,19,0,44,1,10,9,2,-7,0,0,1,0,3,11,4,33,,28,0,11,Jimmy sin Diesel,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Sepang,Malasia,Asia
+RE259,Veterano,3,33,9,9,6,40,4,5,3,2,1,0,1,0,0,5,12,1,33,,28,0,12,Vatto Dovlao,Portugal,Europa,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Sepang,Malasia,Asia
+RE260,Novato,3,33,9,23,0,22,5,4,9,2,-3,0,0,1,0,7,6,3,33,,28,0,6,Justa Victoria,Italia,Europa,3,CTS,Jes,Amarillo,#F28807,Sepang,Malasia,Asia
+RE261,Novato,3,33,9,33,10,58,3,6,1,1,2,1,1,0,1,1,3,1,33,,28,0,3,Speedy,Mexico,Norte América,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Sepang,Malasia,Asia
+RE262,Veterano,3,33,9,33,8,41,8,0,2,1,6,0,1,0,0,4,5,3,33,,28,0,5,Frenando Alfonso,España,Europa,3,CTS,Jes,Amarillo,#F28807,Sepang,Malasia,Asia
+RE263,Veterano,3,33,9,33,4,33,7,2,4,1,3,0,0,0,0,6,4,2,33,,28,0,4,Billy Wheels,Estados Unidos,Norte América,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Sepang,Malasia,Asia
+RE264,Veterano,3,33,9,33,2,45,6,3,6,1,0,0,0,0,0,2,2,4,33,,28,0,2,Jonny Gasolina,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Sepang,Malasia,Asia
+RE329,Novato,4,42,8,8,0,24,3,6,9,2,-5,0,0,1,0,8,16,4,42,,28,0,16,Sony Diotas,Italia,Europa,4,Doble Cero,Sergio,Verde,#00BE08,Sepang,Malasia,Asia
+RE330,Novato,4,42,8,8,10,47,2,8,1,1,1,1,1,0,0,2,15,3,42,,28,0,15,Emerson Frikipaldi,Brasil,Sudamérica,3,CTS,Jes,Amarillo,#F28807,Sepang,Malasia,Asia
+RE331,Veterano,4,42,8,8,6,48,7,2,3,2,4,0,1,0,0,1,14,3,42,,28,0,14,Michael Schufaker,Alemania,Europa,3,CTS,Jes,Amarillo,#F28807,Sepang,Malasia,Asia
+RE332,Veterano,4,42,8,8,5,40,8,0,4,1,4,0,0,0,0,4,17,4,42,,28,0,17,Jonny G. Junior,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Sepang,Malasia,Asia
+RE333,Novato,4,42,8,13,2,35,6,3,7,2,-1,0,0,0,0,5,13,2,42,,28,0,13,Toikoma Toso,Japón,Asia,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Sepang,Malasia,Asia
+RE334,Veterano,4,42,8,18,8,41,4,5,2,1,2,0,1,0,0,3,12,1,42,,28,0,12,Vatto Dovlao,Portugal,Europa,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Sepang,Malasia,Asia
+RE335,Novato,4,42,8,42,3,33,5,4,6,2,-1,0,0,0,0,6,3,1,42,,28,0,3,Speedy,Mexico,Norte América,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Sepang,Malasia,Asia
+RE336,Veterano,4,42,8,42,4,26,1,10,5,1,-5,0,0,0,0,7,5,2,42,,28,0,5,Frenando Alfonso,España,Europa,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Sepang,Malasia,Asia
+RE265,Novato,3,34,10,5,0,13,1,10,9,2,-7,0,0,1,0,8,13,2,34,,29,0,13,Toikoma Toso,Japón,Asia,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Yas Marina,Abu Dhabi,Asia
+RE266,Novato,3,34,10,20,5,49,2,8,5,2,-3,0,0,0,0,4,11,4,34,,29,0,11,Jimmy sin Diesel,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Yas Marina,Abu Dhabi,Asia
+RE267,Veterano,3,34,10,10,10,50,3,6,1,1,2,1,1,0,0,3,12,1,34,,29,1,12,Vatto Dovlao,Portugal,Europa,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Yas Marina,Abu Dhabi,Asia
+RE268,Novato,3,34,10,24,0,22,7,2,9,2,-1,0,0,1,0,7,6,3,34,,29,0,6,Justa Victoria,Italia,Europa,3,CTS,Jes,Amarillo,#F28807,Yas Marina,Abu Dhabi,Asia
+RE269,Novato,3,34,10,34,4,62,4,5,4,2,0,0,0,0,0,1,3,1,34,,29,1,3,Speedy,Mexico,Norte América,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Yas Marina,Abu Dhabi,Asia
+RE270,Veterano,3,34,10,34,8,53,6,3,2,1,4,0,1,0,0,2,2,4,34,,29,0,2,Jonny Gasolina,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Yas Marina,Abu Dhabi,Asia
+RE271,Veterano,3,34,10,34,6,47,5,4,3,1,2,0,1,0,0,5,5,3,34,,29,0,5,Frenando Alfonso,España,Europa,3,CTS,Jes,Amarillo,#F28807,Yas Marina,Abu Dhabi,Asia
+RE272,Veterano,3,34,10,34,2,35,8,0,6,1,2,0,0,0,0,6,4,2,34,,29,0,4,Billy Wheels,Estados Unidos,Norte América,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Yas Marina,Abu Dhabi,Asia
+RE425,Novato,5,54,10,10,0,41,7,2,9,2,-1,0,0,1,0,5,18,2,54,2FD3,29,0,18,Xter Minadora,Argentina,Sudamérica,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Yas Marina,Abu Dhabi,Asia
+RE426,Novato,5,54,10,20,3,52,2,8,6,2,-4,0,0,0,0,3,15,3,54,2FD1,29,0,15,Emerson Frikipaldi,Brasil,Sudamérica,3,CTS,Jes,Amarillo,#F28807,Yas Marina,Abu Dhabi,Asia
+RE427,Veterano,5,54,10,20,10,68,3,6,1,1,2,1,1,0,1,1,14,3,54,2FD2,29,0,14,Michael Schufaker,Alemania,Europa,3,CTS,Jes,Amarillo,#F28807,Yas Marina,Abu Dhabi,Asia
+RE428,Veterano,5,54,10,25,4,46,8,0,5,1,3,0,0,0,0,4,13,2,54,2FD4,29,0,13,Toikoma Toso,Japón,Asia,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Yas Marina,Abu Dhabi,Asia
+RE429,Veterano,5,54,10,30,5,38,1,10,4,2,-3,0,0,0,0,6,12,1,54,2FD6,29,0,12,Vatto Dovlao,Portugal,Europa,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Yas Marina,Abu Dhabi,Asia
+RE430,Novato,5,54,10,44,0,28,5,4,9,2,-3,0,0,1,0,8,2,4,54,2FD7,29,0,2,Jonny Gasolina,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Yas Marina,Abu Dhabi,Asia
+RE431,Veterano,5,54,10,54,8,67,6,3,2,1,4,0,1,0,0,2,5,4,54,2FD8,29,0,5,Frenando Alfonso,España,Europa,4,Doble Cero,Sergio,Verde,#00BE08,Yas Marina,Abu Dhabi,Asia
+RE432,Novato,5,54,10,54,6,36,4,5,3,1,1,0,1,0,0,7,3,1,54,2FD5,29,0,3,Speedy,Mexico,Norte América,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Yas Marina,Abu Dhabi,Asia
+RE401,Novato,5,51,7,7,3,31,5,4,6,2,-1,0,0,0,0,5,18,2,51,2FD3,30,0,18,Xter Minadora,Argentina,Sudamérica,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Daytona,Estados Unidos,Norte América
+RE402,Novato,5,51,7,17,10,35,4,5,1,1,3,1,1,0,0,3,15,3,51,2FD1,30,0,15,Emerson Frikipaldi,Brasil,Sudamérica,3,CTS,Jes,Amarillo,#F28807,Daytona,Estados Unidos,Norte América
+RE403,Veterano,5,51,7,17,4,48,8,0,5,2,3,0,0,0,0,1,14,3,51,2FD2,30,0,14,Michael Schufaker,Alemania,Europa,3,CTS,Jes,Amarillo,#F28807,Daytona,Estados Unidos,Norte América
+RE404,Veterano,5,51,7,22,8,35,2,8,2,1,0,0,1,0,0,4,13,2,51,2FD4,30,0,13,Toikoma Toso,Japón,Asia,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Daytona,Estados Unidos,Norte América
+RE405,Veterano,5,51,7,27,6,23,3,6,3,1,0,0,1,0,0,8,12,1,51,2FD6,30,0,12,Vatto Dovlao,Portugal,Europa,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Daytona,Estados Unidos,Norte América
+RE406,Novato,5,51,7,41,2,24,1,10,7,1,-6,0,0,0,0,6,2,4,51,2FD7,30,0,2,Jonny Gasolina,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Daytona,Estados Unidos,Norte América
+RE407,Veterano,5,51,7,51,0,45,6,3,9,2,-2,0,0,1,0,2,5,4,51,2FD8,30,0,5,Frenando Alfonso,España,Europa,4,Doble Cero,Sergio,Verde,#00BE08,Daytona,Estados Unidos,Norte América
+RE408,Novato,5,51,7,51,5,23,7,2,4,2,3,0,0,0,0,7,3,1,51,2FD5,30,0,3,Speedy,Mexico,Norte América,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Daytona,Estados Unidos,Norte América
+RE489,Novato,6,62,8,8,5,27,4,5,4,2,0,0,0,0,0,7,21,1,62,2FD12,30,0,21,Daniel Flipiardo,Australia,Oceania,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Daytona,Estados Unidos,Norte América
+RE490,Veterano,6,62,8,8,6,29,2,8,3,1,-1,0,1,0,0,6,22,5,8,2FD10,30,0,22,Leandro Gao,Brasil,Sudamérica,5,FIAT Rukkito,Manu,Blanco,#c8d4f9,Daytona,Estados Unidos,Norte América
+RE491,Veterano,6,62,8,8,10,37,5,4,1,1,4,1,1,0,0,5,20,1,62,2FD13,30,0,20,Meg Azor,España,Europa,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Daytona,Estados Unidos,Norte América
+RE492,Novato,6,62,8,8,3,48,7,2,6,2,1,0,0,0,0,1,19,5,8,2FD11,30,0,19,Whisky Raikkonen,Finlandia,Europa,5,FIAT Rukkito,Manu,Blanco,#c8d4f9,Daytona,Estados Unidos,Norte América
+RE493,Novato,6,62,8,18,0,37,6,3,9,2,-2,0,0,1,0,4,17,4,62,2FD8,30,0,17,Jonny G. Junior,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Daytona,Estados Unidos,Norte América
+RE494,Novato,6,62,8,28,8,42,8,0,2,1,7,0,1,0,0,2,15,3,62,2FD9,30,0,15,Emerson Frikipaldi,Brasil,Sudamérica,3,CTS,Jes,Amarillo,#F28807,Daytona,Estados Unidos,Norte América
+RE495,Veterano,6,62,8,28,4,40,3,6,5,1,-2,0,0,0,0,3,11,4,62,2FD7,30,0,11,Jimmy sin Diesel,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Daytona,Estados Unidos,Norte América
+RE496,Veterano,6,62,8,28,2,23,1,10,7,2,-7,0,0,0,0,8,14,3,62,2FD2,30,0,14,Michael Schufaker,Alemania,Europa,3,CTS,Jes,Amarillo,#F28807,Daytona,Estados Unidos,Norte América
+RE409,Novato,5,52,8,8,0,31,2,8,8,2,-6,0,0,0,0,5,18,2,52,2FD3,31,0,18,Xter Minadora,Argentina,Sudamérica,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Magny-Cours,Francia,Europa
+RE410,Novato,5,52,8,18,6,41,3,6,3,2,0,0,1,0,0,3,15,3,52,2FD1,31,0,15,Emerson Frikipaldi,Brasil,Sudamérica,3,CTS,Jes,Amarillo,#F28807,Magny-Cours,Francia,Europa
+RE411,Veterano,5,52,8,18,10,58,1,10,1,1,0,1,1,0,0,1,14,3,52,2FD2,31,0,14,Michael Schufaker,Alemania,Europa,3,CTS,Jes,Amarillo,#F28807,Magny-Cours,Francia,Europa
+RE412,Veterano,5,52,8,23,4,39,8,0,5,1,3,0,0,0,0,4,13,2,52,2FD4,31,0,13,Toikoma Toso,Japón,Asia,2,Estelas Plateadas,Leo,Plateado,#b3b3b3,Magny-Cours,Francia,Europa
+RE413,Veterano,5,52,8,28,5,28,4,5,4,1,0,0,0,0,0,6,12,1,52,2FD6,31,0,12,Vatto Dovlao,Portugal,Europa,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Magny-Cours,Francia,Europa
+RE414,Novato,5,52,8,42,2,26,6,3,7,2,-1,0,0,0,0,7,2,4,52,2FD7,31,0,2,Jonny Gasolina,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Magny-Cours,Francia,Europa
+RE415,Veterano,5,52,8,52,8,53,5,4,2,1,3,0,1,0,0,2,5,4,52,2FD8,31,0,5,Frenando Alfonso,España,Europa,4,Doble Cero,Sergio,Verde,#00BE08,Magny-Cours,Francia,Europa
+RE416,Novato,5,52,8,52,3,26,7,2,6,2,1,0,0,0,0,8,3,1,52,2FD5,31,0,3,Speedy,Mexico,Norte América,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Magny-Cours,Francia,Europa
+RE473,Novato,6,60,6,6,4,19,2,8,5,2,-3,0,0,0,0,6,21,1,60,2FD12,32,0,21,Daniel Flipiardo,Australia,Oceania,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Zhuhai,China,Asia
+RE474,Veterano,6,60,6,6,0,18,6,3,8,2,-2,0,0,0,0,7,22,5,6,2FD10,32,0,22,Leandro Gao,Brasil,Sudamérica,5,FIAT Rukkito,Manu,Blanco,#c8d4f9,Zhuhai,China,Asia
+RE475,Veterano,6,60,6,6,6,27,1,10,3,1,-2,0,1,0,0,3,20,1,60,2FD13,32,0,20,Meg Azor,España,Europa,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Zhuhai,China,Asia
+RE476,Novato,6,60,6,6,3,39,8,0,6,1,2,0,0,0,0,1,19,5,6,2FD11,32,0,19,Whisky Raikkonen,Finlandia,Europa,5,FIAT Rukkito,Manu,Blanco,#c8d4f9,Zhuhai,China,Asia
+RE477,Novato,6,60,6,16,10,35,5,4,1,1,6,1,1,0,0,2,17,4,60,2FD8,32,0,17,Jonny G. Junior,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Zhuhai,China,Asia
+RE478,Novato,6,60,6,26,8,26,4,5,2,1,2,0,1,0,0,4,15,3,60,2FD9,32,0,15,Emerson Frikipaldi,Brasil,Sudamérica,3,CTS,Jes,Amarillo,#F28807,Zhuhai,China,Asia
+RE479,Veterano,6,60,6,26,2,26,7,2,7,2,-2,0,0,0,0,5,11,4,60,2FD7,32,0,11,Jimmy sin Diesel,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Zhuhai,China,Asia
+RE480,Veterano,6,60,6,26,5,17,3,6,4,2,-1,0,0,0,0,8,14,3,60,2FD2,32,0,14,Michael Schufaker,Alemania,Europa,3,CTS,Jes,Amarillo,#F28807,Zhuhai,China,Asia
+RE521,Novato,7,66,2,12,5,13,3,6,4,1,-1,0,0,0,0,3,21,1,66,2FD12,32,0,21,Daniel Flipiardo,Australia,Oceania,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Zhuhai,China,Asia
+RE522,Novato,7,66,2,32,6,10,1,10,3,2,-2,0,1,0,0,4,15,3,66,2FD9,32,0,15,Emerson Frikipaldi,Brasil,Sudamérica,3,CTS,Jes,Amarillo,#F28807,Zhuhai,China,Asia
+RE523,Veterano,7,66,2,32,2,2,7,2,7,2,0,0,0,0,0,8,11,4,66,2FD7,32,0,11,Jimmy sin Diesel,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Zhuhai,China,Asia
+RE524,Novato,7,66,2,22,10,13,4,5,1,1,3,1,1,0,0,2,17,4,66,2FD8,32,0,17,Jonny G. Junior,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Zhuhai,China,Asia
+RE525,Veterano,7,66,2,2,0,5,5,4,9,2,-3,0,0,1,0,6,23,5,12,2FD10,32,0,23,Mad Max Verstappen,Holanda,Europa,5,FIAT Rukkito,Manu,Blanco,#c8d4f9,Zhuhai,China,Asia
+RE526,Veterano,7,66,2,12,4,4,6,3,5,2,1,0,0,0,0,7,20,1,66,2FD13,32,0,20,Meg Azor,España,Europa,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Zhuhai,China,Asia
+RE527,Veterano,7,66,2,32,8,18,2,8,2,1,0,0,1,0,0,1,14,3,66,2FD14,32,0,14,Michael Schufaker,Alemania,Europa,3,CTS,Jes,Amarillo,#F28807,Zhuhai,China,Asia
+RE528,Novato,7,66,2,12,3,9,8,0,6,1,1,0,0,0,0,5,19,5,12,2FD11,32,0,19,Whisky Raikkonen,Finlandia,Europa,5,FIAT Rukkito,Manu,Blanco,#c8d4f9,Zhuhai,China,Asia
+RE481,Novato,6,61,7,7,3,22,6,3,6,1,0,0,0,0,0,7,21,1,61,2FD12,33,0,21,Daniel Flipiardo,Australia,Oceania,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Kyalami,Sudáfrica,África
+RE482,Veterano,6,61,7,7,5,23,2,8,4,2,-2,0,0,0,0,6,22,5,7,2FD10,33,0,22,Leandro Gao,Brasil,Sudamérica,5,FIAT Rukkito,Manu,Blanco,#c8d4f9,Kyalami,Sudáfrica,África
+RE483,Veterano,6,61,7,7,0,27,8,0,8,2,0,0,0,0,0,5,20,1,61,2FD13,33,0,20,Meg Azor,España,Europa,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Kyalami,Sudáfrica,África
+RE484,Novato,6,61,7,7,6,45,1,10,3,1,-2,0,1,0,0,1,19,5,7,2FD11,33,0,19,Whisky Raikkonen,Finlandia,Europa,5,FIAT Rukkito,Manu,Blanco,#c8d4f9,Kyalami,Sudáfrica,África
+RE485,Novato,6,61,7,17,2,37,5,4,7,2,-1,0,0,0,0,2,17,4,61,2FD8,33,0,17,Jonny G. Junior,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Kyalami,Sudáfrica,África
+RE486,Novato,6,61,7,27,8,34,7,2,2,1,5,0,1,0,0,4,15,3,61,2FD9,33,0,15,Emerson Frikipaldi,Brasil,Sudamérica,3,CTS,Jes,Amarillo,#F28807,Kyalami,Sudáfrica,África
+RE487,Veterano,6,61,7,27,10,36,3,6,1,1,2,1,1,0,0,3,11,4,61,2FD7,33,0,11,Jimmy sin Diesel,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Kyalami,Sudáfrica,África
+RE488,Veterano,6,61,7,27,4,21,4,5,5,2,-1,0,0,0,0,8,14,3,61,2FD2,33,0,14,Michael Schufaker,Alemania,Europa,3,CTS,Jes,Amarillo,#F28807,Kyalami,Sudáfrica,África
+RE513,Novato,7,65,1,11,8,8,7,2,2,1,5,0,1,0,0,2,21,1,65,2FD12,34,0,21,Daniel Flipiardo,Australia,Oceania,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Shangai,China,Asia
+RE514,Novato,7,65,1,31,4,4,4,5,5,2,-1,0,0,0,0,5,15,3,65,2FD9,34,0,15,Emerson Frikipaldi,Brasil,Sudamérica,3,CTS,Jes,Amarillo,#F28807,Shangai,China,Asia
+RE515,Veterano,7,65,1,31,0,0,2,8,9,2,-6,0,0,1,0,7,11,4,65,2FD7,34,0,11,Jimmy sin Diesel,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Shangai,China,Asia
+RE516,Novato,7,65,1,21,3,3,6,3,6,1,0,0,0,0,0,6,17,4,65,2FD8,34,0,17,Jonny G. Junior,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Shangai,China,Asia
+RE517,Veterano,7,65,1,1,5,5,3,6,4,2,-1,0,0,0,0,4,23,5,11,2FD10,34,0,23,Mad Max Verstappen,Holanda,Europa,5,FIAT Rukkito,Manu,Blanco,#c8d4f9,Shangai,China,Asia
+RE518,Veterano,7,65,1,11,0,0,5,4,9,2,-3,0,0,1,0,8,20,1,65,2FD13,34,0,20,Meg Azor,España,Europa,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Shangai,China,Asia
+RE519,Veterano,7,65,1,31,10,10,1,10,1,1,0,1,1,0,0,1,14,3,65,2FD14,34,0,14,Michael Schufaker,Alemania,Europa,3,CTS,Jes,Amarillo,#F28807,Shangai,China,Asia
+RE520,Novato,7,65,1,11,6,6,8,0,3,1,5,0,1,0,0,3,19,5,11,2FD11,34,0,19,Whisky Raikkonen,Finlandia,Europa,5,FIAT Rukkito,Manu,Blanco,#c8d4f9,Shangai,China,Asia
+RE577,Veterano,7,73,9,39,0,19,5,4,9,2,-3,0,0,1,0,8,11,4,73,2FD7,35,0,11,Jimmy sin Diesel,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Monterey,Estados Unidos,Norte América
+RE578,Veterano,7,73,9,39,8,57,3,6,2,1,1,0,1,0,0,2,14,3,73,2FD14,35,0,14,Michael Schufaker,Alemania,Europa,3,CTS,Jes,Amarillo,#F28807,Monterey,Estados Unidos,Norte América
+RE579,Novato,7,73,9,39,2,34,1,10,7,2,6,0,0,0,0,6,15,3,73,2FD9,35,0,15,Emerson Frikipaldi,Brasil,Sudamérica,3,CTS,Jes,Amarillo,#F28807,Monterey,Estados Unidos,Norte América
+RE580,Novato,7,73,9,29,4,49,6,3,5,1,1,0,0,0,0,3,17,4,73,2FD8,35,0,17,Jonny G. Junior,Estados Unidos,Norte América,4,Doble Cero,Sergio,Verde,#00BE08,Monterey,Estados Unidos,Norte América
+RE581,Veterano,7,73,9,19,5,48,2,8,4,1,-2,0,0,0,0,4,19,5,19,2FD11,35,0,19,Whisky Raikkonen,Finlandia,Europa,5,FIAT Rukkito,Manu,Blanco,#c8d4f9,Monterey,Estados Unidos,Norte América
+RE582,Veterano,7,73,9,19,6,38,8,0,3,2,5,0,1,0,0,5,20,1,73,2FD13,35,0,20,Meg Azor,España,Europa,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Monterey,Estados Unidos,Norte América
+RE583,Novato,7,73,9,19,10,61,4,5,1,1,3,1,1,0,0,1,21,1,73,2FD12,35,0,21,Daniel Flipiardo,Australia,Oceania,1,Estrellas Rojas,Kitos,Rojo,#D72C14,Monterey,Estados Unidos,Norte América
+RE584,Novato,7,73,9,9,3,32,7,2,6,2,1,0,0,0,0,7,23,5,19,2FD10,35,0,23,Mad Max Verstappen,Holanda,Europa,5,FIAT Rukkito,Manu,Blanco,#c8d4f9,Monterey,Estados Unidos,Norte América
